@@ -17,10 +17,6 @@ Welcome to my GitHub profile! I'm a passionate data scientist with expertise in 
 | Web Framework      | [![Flask][Flask-badge]][Flask-url] |
 | Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
 
-## 📫 Let's Connect
-
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/jensbender). I'm always open to discussing exciting data science projects, collaborations, or opportunities.
-
 ## 📄 Portfolio
 
 Check out my portfolio for more details on my projects: [Portfolio URL]
