@@ -4,17 +4,9 @@
 
 ![Header](header-image.png)
 
-# Jens Bender
-
-## Data Scientist 
-
 Welcome to my GitHub profile! I'm a passionate data scientist with expertise in machine learning and a drive to derive actionable insights from complex data. I enjoy solving challenging problems and applying data-driven approaches to real-world scenarios.
 
-### 🔭 Current Projects
-
-- Working on developing a hate speech detector for social media comments.
-
-### 🌱 Skills
+### 🛠️ Skills
 
 - Programming: Python, R, SQL
 - Statistical Analysis: NumPy, Pandas
