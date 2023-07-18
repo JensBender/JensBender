@@ -2,7 +2,7 @@
 **JensBender/JensBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Header](github-header-image.png)
+![Header](header-image.png)
 
 # Jens Bender
 
