@@ -2,23 +2,65 @@
 **JensBender/JensBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm Jens Bender</h1>
-<h3 align="center">A data scientist</h3>
+![Header](github-header-image.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jensbender&label=Profile%20views&color=0e75b6&style=flat" alt="jensbender" /> </p>
+# Jens Bender
 
-- 🔭 I’m currently working on [Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
+## Data Scientist 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jensbender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jensbender" height="30" width="40" /></a>
-</p>
+Welcome to my GitHub profile! I'm a passionate data scientist with expertise in machine learning and a drive to derive actionable insights from complex data. I enjoy solving challenging problems and applying data-driven approaches to real-world scenarios.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🔭 Current Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jensbender&show_icons=true&locale=en&layout=compact" alt="jensbender" /></p>
+- Working on developing a hate speech detector for social media comments.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jensbender&show_icons=true&locale=en" alt="jensbender" /></p>
+### 🌱 Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jensbender&" alt="jensbender" /></p>
+- Programming: Python, R, SQL
+- Statistical Analysis: NumPy, Pandas
+- Data Visualization: Matplotlib, Seaborn, Plotly
+- Machine Learning: Scikit-learn, TensorFlow
+- Deep Learning: Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)
+  
+- Programming: [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url]
+- Statistical Analysis: [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url]
+- Data Visualization: [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url]
+- Machine Learning: [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url]
+- Web Framework: [![Flask][Flask-badge]][Flask-url]
+- Code Editors: [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url]
+
+### 📫 Let's Connect
+
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/jensbender). I'm always open to discussing exciting data science projects, collaborations, or opportunities.
+
+### 📄 Portfolio
+
+Check out my portfolio for more details on my projects: [Portfolio URL]
+
+Looking forward to exploring and sharing knowledge in the fascinating world of data science!
+
+<!-- MARKDOWN LINKS -->
+[Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
+[JupyterNotebook-badge]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
+[JupyterNotebook-url]: https://jupyter.org/
+[Matplotlib-badge]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
+[Matplotlib-url]: https://matplotlib.org/
+[MySQL-badge]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+[NumPy-badge]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[NumPy-url]: https://numpy.org/
+[Pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/
+[Plotly-badge]: https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white
+[Plotly-url]: https://plotly.com/python/
+[PyCharm-badge]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
+[PyCharm-url]: https://www.jetbrains.com/pycharm/
+[Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
+[scikit-learn-badge]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+[scikit-learn-url]: https://scikit-learn.org/stable/
+[Spyder-badge]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
+[Spyder-url]: https://www.spyder-ide.org/
+[TensorFlow-badge]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
+[TensorFlow-url]: https://www.tensorflow.org/
