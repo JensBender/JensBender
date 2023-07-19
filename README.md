@@ -28,7 +28,7 @@ I'm a passionate data scientist with expertise in machine learning and a drive t
 
 | Fine-tuned BERT: Confusion Matrix | Model Deployment | 
 | ------------------ | ------------------ | 
-| ![BERT-confusion-matrix](images/bert_confusion_matrix.png) | <img src="images/hate_speech_model_deployment_01.PNG" style="width: 275px;"> |
+| ![BERT-confusion-matrix](images/bert_confusion_matrix.png) | <img src="images/hate_speech_model_deployment.PNG" style="width: 275px;"> |
 
 
 
