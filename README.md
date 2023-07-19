@@ -6,6 +6,7 @@
 ## 👋 About Me
 I'm a passionate and analytical **data scientist** with over eight years of experience in data analysis, data visualization, and data storytelling. I enjoy solving challenging problems, harnessing the power of machine learning to derive valuable insights, and effectively communicating complex information.
 
+
 <!-- SKILLS -->
 ## 🛠️ Skills
 
@@ -19,8 +20,33 @@ I'm a passionate and analytical **data scientist** with over eight years of expe
 | Version Control    | [![Git][Git-badge]][Git-url] |
 | Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Google Colab][GoogleColab-badge]][GoogleColab-url] |
 
+
+<!-- COURSE CERTIFICATES -->
+## 🏅 Course Certificates
+
+### Deep Learning
+alfatraining Bildungszentrum GmbH | April 2023  
+Skills: TensorFlow · Spyder IDE · Data Science · NumPy · Natural Language Processing (NLP) · Python · Deep Learning · Recurrent Neural Networks (RNN) · Artificial Intelligence (AI) · Neural Networks · Scikit-Learn · Reinforcement Learning · Machine Learning · Transfer Learning · Convolutional Neural Networks (CNN) · Time Series Analysis
+
+### [Machine Learning by Stanford University & DeepLearning.AI](https://coursera.org/share/1c62950a6100b0426d454b652e77498c)
+Coursera | April 2023  
+Skills: Decision Trees · Recommender Systems · Anomaly Detection · Data Science · Jupyter Notebook · Python · Deep Learning · Linear Regression · Artificial Intelligence (AI) · Neural Networks · Logistic Regression · Reinforcement Learning · Principal Component Analysis · Machine Learning · k-means clustering
+
+### [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/certificate/UC-4de79ac0-2282-45c9-93e1-a7cb6f812592/)
+Udemy | March 2023  
+Skills: Decision Trees · Support Vector Machine (SVM) · Matplotlib · Random Forest · Data Science · Naive Bayes · NumPy · Seaborn · Jupyter Notebook · Hierarchical Clustering · Natural Language Processing (NLP) · Pandas · Python · Linear Regression · Artificial Intelligence (AI) · Scikit-Learn · Logistic Regression · Principal Component Analysis · Gradient Boosting · Machine Learning · DBSCAN · k-means clustering · K-Nearest Neighbors (KNN)
+
+### Machine Learning
+alfatraining Bildungszentrum GmbH | February 2023  
+Skills: Decision Trees · Support Vector Machine (SVM) · Matplotlib · Data Science · Naive Bayes · NumPy · Jupyter Notebook · Hierarchical Clustering · Pandas · Python · Linear Regression · Artificial Intelligence (AI) · Neural Networks · Scikit-Learn · Principal Component Analysis · Machine Learning · DBSCAN · k-means clustering · Pycharm · K-Nearest Neighbors (KNN)
+
+### [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-e324e4f7-95ba-4894-b8e0-65229ff5e2dc)
+Udemy | December 2022  
+Skills: MySQL · SQL
+
+
 <!-- PORTFOLIO -->
-## 📄 Portfolio
+## 💻 Portfolio
 
 ### [Project 1: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
 + Motivation: Develop a hate speech detector for social media comments. 
@@ -63,9 +89,11 @@ I'm a passionate and analytical **data scientist** with over eight years of expe
 }
 ```
 
+
 <!-- CREDITS -->
 ## ©️ Credits
 <sup><small>Profile banner GIF based on the video by [RDNE Stock project](https://www.pexels.com/video/business-analytics-presentation-7947451/) from Pexels</small></sup>
+
 
 <!-- MARKDOWN LINKS -->
 [Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
