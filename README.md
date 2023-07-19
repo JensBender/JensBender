@@ -1,13 +1,10 @@
-<!--
-**JensBender/JensBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ![Profile-banner](profile-banner.gif)
 
 # Hi, I'm Jens
 ## A Data Scientist
 I'm a passionate data scientist with expertise in machine learning and a drive to derive actionable insights from complex data. I enjoy solving challenging problems and applying data-driven approaches to real-world scenarios.
 
+<!-- SKILLS -->
 ## 🛠️ Skills
 
 | Category           | Skill    |
@@ -20,15 +17,12 @@ I'm a passionate data scientist with expertise in machine learning and a drive t
 | Version Control    | [![Git][Git-badge]][Git-url] |
 | Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Google Colab][GoogleColab-badge]][GoogleColab-url] |
 
+<!-- PORTFOLIO -->
 ## 📄 Portfolio
-
 Check out my portfolio for more details on my projects: [Portfolio URL]
-
-Looking forward to exploring and sharing knowledge in the fascinating world of data science!
 
 <!-- CREDITS -->
 ## ©️ Credits
-
 <sup><small>Profile banner GIF based on the video by [RDNE Stock project](https://www.pexels.com/video/business-analytics-presentation-7947451/) from Pexels</small></sup>
 
 <!-- MARKDOWN LINKS -->
