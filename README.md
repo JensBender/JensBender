@@ -19,11 +19,21 @@ I'm a passionate data scientist with expertise in machine learning and a drive t
 
 <!-- PORTFOLIO -->
 ## 📄 Portfolio
+
 ### [Project 1: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
 + Motivation: Develop a hate speech detector for social media comments. 
 + Data: Utilized the [ETHOS Hate Speech Detection Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset).
 + Models: The fine-tuned BERT model demonstrated superior performance (78.0% accuracy) compared to the SimpleRNN (66.3%) and LSTM (70.7%) models.
 + Deployment: The fine-tuned BERT model was prepared for production by integrating it into a web application and an API endpoint.
+
+## [Project 2: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
+Utilize AI to write your cover letter. 
+
+How it works:
++ Enter the URL of the job posting you want to apply for and information about yourself. 
++ The ChatGPT cover letter generator will extract information about the employer, the job title, the requirements, the tasks, the contact person and the company address from the job posting. 
++ Then, it will match the education, work experience, skills, and motivation that you provided to the tasks and requirements of the job posting. 
++ Finally, it will add your salary expectations and possible start date and create three cover letter suggestions that you can fine-tune to apply for the job.
 
 <!-- CREDITS -->
 ## ©️ Credits
