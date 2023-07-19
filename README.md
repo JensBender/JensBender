@@ -1,8 +1,10 @@
 ![Profile-banner](images/profile-banner.gif)
 
 # Hi there! I'm Jens
-## A Data Scientist
-I'm a passionate and analytical data expert with over eight years of experience in data analysis, data visualization, and data storytelling. I enjoy solving challenging problems, harnessing the power of machine learning to derive valuable insights, and effectively communicating complex information.
+
+<!-- ABOUT ME -->
+## 👋 About Me
+I'm a passionate and analytical **data scientist** with over eight years of experience in data analysis, data visualization, and data storytelling. I enjoy solving challenging problems, harnessing the power of machine learning to derive valuable insights, and effectively communicating complex information.
 
 <!-- SKILLS -->
 ## 🛠️ Skills
