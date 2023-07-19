@@ -8,13 +8,14 @@ Welcome to my GitHub profile! I'm a passionate data scientist with expertise in 
 
 ## 🛠️ Skills
 
-|                    | Skill    |
+| Category           | Skill    |
 | ------------------ | -------- |
 | Programming        | [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] |
 | Data Manipulation  | [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] |
 | Data Visualization | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] |
 | Machine Learning   | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] |
 | Web Framework      | [![Flask][Flask-badge]][Flask-url] |
+| Git                | [![Git][Git-badge]][Git-url] |
 | Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
 
 ## 📄 Portfolio
@@ -27,6 +28,8 @@ Looking forward to exploring and sharing knowledge in the fascinating world of d
 <!-- MARKDOWN LINKS -->
 [Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
+[Git-badge]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[Git-url]: https://git-scm.com/
 [JupyterNotebook-badge]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
 [JupyterNotebook-url]: https://jupyter.org/
 [Matplotlib-badge]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
