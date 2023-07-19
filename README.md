@@ -1,4 +1,4 @@
-![Profile-banner](profile-banner.gif)
+![Profile-banner](images/profile-banner.gif)
 
 # Hi, I'm Jens
 ## A Data Scientist
