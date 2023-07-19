@@ -2,6 +2,8 @@
 **JensBender/JensBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![Profile-banner](profile-banner.gif)
+
 ![Header](header-image.png)
 
 I'm a passionate data scientist with expertise in machine learning and a drive to derive actionable insights from complex data. I enjoy solving challenging problems and applying data-driven approaches to real-world scenarios.
@@ -24,6 +26,10 @@ Check out my portfolio for more details on my projects: [Portfolio URL]
 
 Looking forward to exploring and sharing knowledge in the fascinating world of data science!
 
+<!-- CREDIT -->
+---
+
+<sup><small>Profile banner GIF based on the video by [Pressmaster](https://www.pexels.com/video/digital-presentation-of-data-and-information-3130284/) from Pexels</small></sup>
 
 <!-- MARKDOWN LINKS -->
 [Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
