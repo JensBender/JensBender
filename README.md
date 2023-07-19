@@ -33,13 +33,9 @@ I'm a passionate data scientist with expertise in machine learning and a drive t
 
 
 ### [Project 2: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
-Utilize AI to write your cover letter. 
-
-How it works:
-+ Enter the URL of the job posting you want to apply for and information about yourself. 
-+ The ChatGPT cover letter generator will extract information about the employer, the job title, the requirements, the tasks, the contact person and the company address from the job posting. 
-+ Then, it will match the education, work experience, skills, and motivation that you provided to the tasks and requirements of the job posting. 
-+ Finally, it will add your salary expectations and possible start date and create three cover letter suggestions that you can fine-tune to apply for the job.
++ Developed an AI-assisted cover letter generator.
++ Utilized Python and Beautiful Soup to scrape relevant job information, such as requirements and tasks, in JSON format. 
++ Leveraged the ChatGPT API to generate three cover letter suggestions by aligning the candidate's education, work experience, skills, and motivation with the job posting's tasks and requirements. 
 
 <!-- CREDITS -->
 ## ©️ Credits
