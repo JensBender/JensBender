@@ -35,7 +35,7 @@ I'm a passionate data scientist with expertise in machine learning and a drive t
 ### [Project 2: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
 + Developed an AI-assisted cover letter generator that empowers job seekers to create personalized and professional cover letters tailored to specific job postings.
 + Utilized Python and Beautiful Soup to scrape relevant job information, such as requirements and tasks, in JSON format. 
-+ Leveraged the ChatGPT API to generate three cover letter suggestions by aligning the candidate's education, work experience, skills, and motivation with the job posting's tasks and requirements. 
++ Leveraged the ChatGPT API to generate cover letter suggestions by aligning the candidate's education, work experience, skills, and motivation with the job posting's tasks and requirements. 
 
 <!-- CREDITS -->
 ## ©️ Credits
