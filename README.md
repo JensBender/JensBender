@@ -19,7 +19,7 @@ I'm a passionate data scientist with expertise in machine learning and a drive t
 
 <!-- PORTFOLIO -->
 ## 📄 Portfolio
-### Project 1: Hate Speech Detection
+### [Project 1: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
 + Motivation: Develop a hate speech detector for social media comments. 
 + Data: Utilized the [ETHOS Hate Speech Detection Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset).
 + Models: The fine-tuned BERT model demonstrated superior performance (78.0% accuracy) compared to the SimpleRNN (66.3%) and LSTM (70.7%) models.
