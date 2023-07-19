@@ -33,9 +33,34 @@ I'm a passionate data scientist with expertise in machine learning and a drive t
 
 
 ### [Project 2: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
-+ Developed an AI-assisted cover letter generator that empowers job seekers to create personalized and professional cover letters tailored to specific job postings.
-+ Utilized Python and Beautiful Soup to scrape relevant job information, such as requirements and tasks, in JSON format. 
-+ Leveraged the ChatGPT API to generate cover letter suggestions by aligning the candidate's education, work experience, skills, and motivation with the job posting's tasks and requirements. 
++ Developed an AI-assisted cover letter generator that empowers job seekers in crafting personalized and professional cover letters tailored to specific job postings.
++ Employing Python and Beautiful Soup, job postings were scraped and the ChatGPT API was utilized to extract key information, including requirements and tasks, in JSON format.
++ Leveraged the ChatGPT API to extract relevant job information, such as requirements and tasks, in JSON format. 
++ By leveraging the ChatGPT API further, cover letter suggestions were generated, aligning the candidate's education, work experience, skills, and motivation with the specific job's requirements and tasks.
+
+```
+{
+  "employer": "OpenAI",
+  "job title": "Research Scientist",
+  "requirements": [
+    "Track record of coming up with new ideas or improving 
+    upon existing ideas in machine learning",
+    "Ability to own and pursue a research agenda",
+    "Excitement about OpenAI's approach to research",
+    "Nice to have: Interested in and thoughtful about the 
+    impacts of AI technology",
+    "Nice to have: Past experience in creating high-performance 
+    implementations of deep learning algorithms"
+  ],
+  "tasks": [
+    "Develop innovative machine learning techniques",
+    "Advance the research agenda of the team",
+    "Collaborate with peers across the organization"
+  ],
+  "contact person": "unknown",
+  "address": "San Francisco, California, United States"
+}
+```
 
 <!-- CREDITS -->
 ## ©️ Credits
