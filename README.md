@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with expertise in 
 | Data Visualization | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] |
 | Machine Learning   | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] |
 | Web Framework      | [![Flask][Flask-badge]][Flask-url] |
-| Git                | [![Git][Git-badge]][Git-url] |
+| Version Control    | [![Git][Git-badge]][Git-url] |
 | Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
 
 ## 📄 Portfolio
