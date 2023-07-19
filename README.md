@@ -30,7 +30,7 @@ I'm a passionate data scientist with expertise in machine learning and a drive t
   | Test Accuracy     | 66.3%     | 70.7%    | 78.0%           |
 + Deployment: The fine-tuned BERT model was prepared for production by integrating it into a web application and an API endpoint.
 
-<img src="./images/hate_speech_model_deployment_01.PNG" alt="Deployment example 1" style="width: 300px;"> <img src="./images/hate_speech_model_deployment_02.PNG" alt="Deployment example 2" style="width: 300px;">
+<img src="./images/hate_speech_model_deployment_01.PNG" alt="Deployment example 1" style="width: 300px;"> <img src="./images/hate_speech_model_deployment_02.PNG" alt="Deployment example 2" style="width: 300px;"> ![Model deployment API](./images/hate_speech_model_deployment_api.gif)
 
 ### [Project 2: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
 Utilize AI to write your cover letter. 
