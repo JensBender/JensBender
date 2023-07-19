@@ -4,7 +4,7 @@
 
 ![Header](header-image.png)
 
-Welcome to my GitHub profile! I'm a passionate data scientist with expertise in machine learning and a drive to derive actionable insights from complex data. I enjoy solving challenging problems and applying data-driven approaches to real-world scenarios.
+I'm a passionate data scientist with expertise in machine learning and a drive to derive actionable insights from complex data. I enjoy solving challenging problems and applying data-driven approaches to real-world scenarios.
 
 ## 🛠️ Skills
 
