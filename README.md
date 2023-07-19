@@ -26,10 +26,10 @@ Check out my portfolio for more details on my projects: [Portfolio URL]
 
 Looking forward to exploring and sharing knowledge in the fascinating world of data science!
 
-<!-- CREDIT -->
----
+<!-- CREDITS -->
+## ©️ Credits
 
-<sup><small>Profile banner GIF based on the video by [Pressmaster](https://www.pexels.com/video/digital-presentation-of-data-and-information-3130284/) from Pexels</small></sup>
+<sup><small>Profile banner GIF based on the video by [RDNE Stock project](https://www.pexels.com/video/business-analytics-presentation-7947451/) from Pexels</small></sup>
 
 <!-- MARKDOWN LINKS -->
 [Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
