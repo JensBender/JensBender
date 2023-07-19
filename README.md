@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with expertise in 
 | Machine Learning   | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] |
 | Web Framework      | [![Flask][Flask-badge]][Flask-url] |
 | Version Control    | [![Git][Git-badge]][Git-url] |
-| Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
+| Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Google Colab][GoogleColab-badge]][GoogleColab-url] |
 
 ## 📄 Portfolio
 
@@ -30,7 +30,9 @@ Looking forward to exploring and sharing knowledge in the fascinating world of d
 [Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
 [Git-badge]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
-[JupyterNotebook-badge]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
+[GoogleColab-badge]: https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white
+[GoogleColab-url]: https://colab.research.google.com/
+[JupyterNotebook-badge]: https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
 [JupyterNotebook-url]: https://jupyter.org/
 [Matplotlib-badge]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
 [Matplotlib-url]: https://matplotlib.org/
