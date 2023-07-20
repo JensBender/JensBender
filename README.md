@@ -4,7 +4,7 @@
 
 <!-- ABOUT ME -->
 ## 👋 About Me
-I'm an enthusiastic and analytical **data scientist** with over eight years of experience in data analysis, data visualization, and data storytelling. I enjoy solving challenging problems, harnessing the power of machine learning to derive valuable insights, and effectively communicating complex information.
+I'm an enthusiastic **data scientist** with over eight years of experience in data analysis, data visualization, and data storytelling. I enjoy solving challenging problems, harnessing the power of machine learning to derive valuable insights, and effectively communicating complex information.
 
 
 <!-- SKILLS -->
