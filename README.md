@@ -37,8 +37,8 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 
 
 ### [Project 2: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
-+ Developed an AI-assisted cover letter generator that empowers job seekers in crafting personalized and professional cover letters tailored to specific job postings.
-+ Employing Python and Beautiful Soup, job postings were scraped and the ChatGPT API was utilized to extract key information, including requirements and tasks, in JSON format.
++ Developed an AI-assisted cover letter generator that empowers job seekers in crafting personalized and professional cover letters tailored to specific job offers.
++ Scraped job postings by employing Python and Beautiful Soup and utilized the ChatGPT API to extract key information, including requirements and tasks, in JSON format.
 + By leveraging the ChatGPT API further, cover letter suggestions were generated, aligning the candidate's education, work experience, skills, and motivation with the specific job's requirements and tasks.
 
 ```
