@@ -85,6 +85,11 @@ Skills: Decision Trees · Support Vector Machine (SVM) · Matplotlib · Naive Ba
 Skills: MySQL · SQL
 
 
+<!-- GITHUB STATISTICS -->
+## 👨‍💻 GitHub Statistics
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JensBender&layout=compact)](https://github.com/JensBender)
+
+
 <!-- CREDITS -->
 ## ©️ Credits
 <sup><small>Profile banner GIF based on the video by [RDNE Stock project](https://www.pexels.com/video/business-analytics-presentation-7947451/) from Pexels</small></sup>
