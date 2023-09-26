@@ -32,8 +32,8 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 + **Model training**: Trained five machine learning models with baseline configurations, selected an XGBoost regression model with optimized hyperparameters, and achieved a test dataset performance with an RMSE of 995, a MAPE of 0.13, and an R² of 0.90.
 
 <div style="display: flex;">
-  <img src="images/map.png" style="width: 50%;"> 
-  <img src="images/feature_importance.png" style="width: 50%;">
+  <img src="images/map.png" style="width: 49%;"> 
+  <img src="images/feature_importance.png" style="width: 49%;">
 </div>
 
 ### [Project 2: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
