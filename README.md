@@ -24,7 +24,17 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 <!-- PORTFOLIO -->
 ## 💻 Portfolio
 
-### [Project 1: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
+### [Project 1: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
++ **Motivation**: Simplify the process of finding rental properties in Singapore's expensive real estate market by using machine learning to estimate rental prices. 
++ **Data collection**: Scraped 1680 property listings from an online property portal, including information on price, size, address, bedrooms, bathrooms and more.
++ **Exploratory data analysis**: Visualized property locations on an interactive map, generated a word cloud to extract insights from property agent descriptions, and examined descriptive statistics, distributions, and correlations.  
++ **Data preprocessing**: Handled missing address data and engineered location-related features using the Google Maps API, extracted property features from agent descriptions and systematically evaluated multiple outlier handling methods. 
++ **Model training**: Trained five machine learning models with baseline configurations, selected an XGBoost regression model with optimized hyperparameters, and achieved a test dataset performance with an RMSE of 995, a MAPE of 0.13, and an R² of 0.90.
+
+![Feature importance](images/feature_importance.png)
+
+
+### [Project 2: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
 + Motivation: Develop a hate speech detector for social media comments. 
 + Data: Utilized the [ETHOS Hate Speech Detection Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset).
 + Models: Trained and evaluated the performance of three deep learning models using TensorFlow and scikit-learn. The fine-tuned BERT model demonstrated superior performance (78.0% accuracy) compared to the SimpleRNN (66.3%) and LSTM (70.7%) models.  
@@ -35,8 +45,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | ![BERT-confusion-matrix](images/bert_confusion_matrix.png) | <img src="images/hate_speech_model_deployment.PNG" style="width: 275px;"> |
 
 
-
-### [Project 2: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
+### [Project 3: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
 + Developed an AI-assisted cover letter generator that empowers job seekers in crafting personalized and professional cover letters tailored to specific job offers.
 + Scraped job postings by employing Python and Beautiful Soup and utilized the ChatGPT API to extract key information, including requirements and tasks, in JSON format.
 + By leveraging the ChatGPT API further, cover letter suggestions were generated, aligning the candidate's education, work experience, skills, and motivation with the specific job's requirements and tasks.
