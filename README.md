@@ -14,7 +14,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | ------------------ | -------- |
 | Programming        | [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] |
 | Data Manipulation  | [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] |
-| Data Visualization | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] |
+| Data Visualization | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] [![Power BI][PowerBI-badge]][PowerBI-url] |
 | Machine Learning   | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] |
 | Web Framework      | [![Flask][Flask-badge]][Flask-url] |
 | Version Control    | [![Git][Git-badge]][Git-url] |
@@ -124,6 +124,8 @@ Skills: MySQL · SQL
 [NumPy-url]: https://numpy.org/
 [Pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
+[PowerBI-badge]: https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+[PowerBI-url]: https://powerbi.microsoft.com/en-us/
 [Plotly-badge]: https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white
 [Plotly-url]: https://plotly.com/python/
 [PyCharm-badge]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
