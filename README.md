@@ -81,6 +81,9 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 <!-- COURSE CERTIFICATES -->
 ## 🏅 Course Certificates
 
+**Microsoft Power BI Data Analyst**, Udemy, November 2023, [🔗 see certificate](https://www.udemy.com/certificate/UC-eb56c820-8c91-4e03-8c57-efdc8c570c6b/)  
+Skills: Power BI
+
 **Deep Learning**, alfatraining Bildungszentrum GmbH, April 2023  
 Skills: TensorFlow · NumPy · Natural Language Processing (NLP) · Python · Deep Learning · Recurrent Neural Networks (RNN) · Neural Networks · Scikit-Learn · Reinforcement Learning · Transfer Learning · Convolutional Neural Networks (CNN) · Time Series Analysis
 
