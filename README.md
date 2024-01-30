@@ -83,6 +83,9 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 <!-- COURSE CERTIFICATES -->
 ## 🏅 Course Certificates
 
+**AWS Certified Cloud Practitioner**, AWS, January 2024, [🔗 see certificate](https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url)  
+Skills: Amazon Web Services (AWS) 
+
 **Ultimate AWS Certified Cloud Practitioner CLF-C02**, Udemy, January 2024, [🔗 see certificate](https://www.udemy.com/certificate/UC-2090637d-9845-42f3-9f7b-97195874331a/)  
 Skills: Amazon Web Services (AWS) 
 
