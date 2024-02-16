@@ -83,6 +83,9 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 <!-- COURSE CERTIFICATES -->
 ## 🏅 Course Certificates
 
+**Advanced SQL: MySQL for Ecommerce & Web Analytics**, Udemy, February 2024, [🔗 see certificate](https://www.udemy.com/certificate/UC-ac04dd78-4589-4b2e-a863-7722cd78ec2f/)  
+Skills: MySQL · SQL
+
 **AWS Certified Cloud Practitioner**, AWS, January 2024, [🔗 see certificate](https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url)  
 Skills: Amazon Web Services (AWS) 
 
