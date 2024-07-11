@@ -19,6 +19,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | Big Data           | [![Spark][Spark-badge]][Spark-url] |
 | Web Framework      | [![Flask][Flask-badge]][Flask-url] |
 | Cloud Computing    | [![AWS][AWS-badge]][AWS-url] |
+| DevOps             | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
 | Version Control    | [![Git][Git-badge]][Git-url] |
 | Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Google Colab][GoogleColab-badge]][GoogleColab-url] |
 
@@ -125,8 +126,12 @@ Skills: MySQL · SQL
 
 
 <!-- MARKDOWN LINKS -->
+[Airflow-badge]: https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white
+[Airflow-url]: https://airflow.apache.org/
 [AWS-badge]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [AWS-url]: https://aws.amazon.com/
+[Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
 [Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
 [Git-badge]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
