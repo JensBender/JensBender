@@ -17,10 +17,10 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | Data Visualization | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] [![Power BI][PowerBI-badge]][PowerBI-url] |
 | Machine Learning   | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] |
 | Big Data           | [![Spark][Spark-badge]][Spark-url] |
-| Web Framework      | [![Flask][Flask-badge]][Flask-url] |
-| Cloud Computing    | [![AWS][AWS-badge]][AWS-url] |
+| Cloud              | [![AWS][AWS-badge]][AWS-url] |
 | DevOps             | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
 | Version Control    | [![Git][Git-badge]][Git-url] |
+| Web Development    | [![Flask][Flask-badge]][Flask-url] |
 | Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
 
 
