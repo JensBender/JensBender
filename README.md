@@ -27,6 +27,14 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 <!-- PORTFOLIO -->
 ## 💻 Portfolio
 
+### [Project 1: YouTube Channel Analytics](https://github.com/JensBender/youtube-channel-analytics)
+To empower YouTube content creators and marketers with actionable insights into their channels' performance, especially in comparison to related channels, I developed an **ETL pipeline** for analyzing and comparing YouTube channel performance. This involved:
++ **Data Extraction**: Collected data on three selected channels, including videos and comments, using the YouTube API.
++ **Data Transformation**: Cleaned and processed data with Pandas.
++ **Data Loading**: Stored the processed data in a MySQL database on AWS.
++ **Automation**: Managed the ETL workflow using Apache Airflow, Docker, and AWS.
++ **Data Visualization**: Created an interactive PowerBI report that provides insigths into channel performance, featuring key metrics and comparative analysis.
+
 ### [Project 1: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
 + **Motivation**: Simplify the process of finding rental properties in Singapore's expensive real estate market by using machine learning to estimate rental prices. 
 + **Data collection**: Scraped 1680 property listings from an online property portal, including information on price, size, address, bedrooms, bathrooms and more.
