@@ -35,7 +35,7 @@ To empower YouTube content creators and marketers with actionable insights into 
 + **Automation**: Managed the ETL workflow using Apache Airflow, Docker, and AWS.
 + **Data Visualization**: Created an interactive PowerBI report that provides insigths into channel performance, featuring key metrics and comparative analysis.
 
-### [Project 1: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
+### [Project 2: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
 + **Motivation**: Simplify the process of finding rental properties in Singapore's expensive real estate market by using machine learning to estimate rental prices. 
 + **Data collection**: Scraped 1680 property listings from an online property portal, including information on price, size, address, bedrooms, bathrooms and more.
 + **Exploratory data analysis**: Visualized property locations on an interactive map, generated a word cloud to extract insights from property agent descriptions, and examined descriptive statistics, distributions, and correlations.  
@@ -48,7 +48,7 @@ To empower YouTube content creators and marketers with actionable insights into 
   <img src="images/feature_importance.png" style="width: 49%;">
 </div>
 
-### [Project 2: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
+### [Project 3: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
 + **Motivation**: Develop a hate speech detector for social media comments. 
 + **Data**: Utilized the [ETHOS Hate Speech Detection Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset).
 + **Models**: Trained and evaluated the performance of three deep learning models using TensorFlow and scikit-learn. The fine-tuned BERT model demonstrated superior performance (78.0% accuracy) compared to the SimpleRNN (66.3%) and LSTM (70.7%) models.  
