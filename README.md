@@ -51,36 +51,6 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | ![BERT-confusion-matrix](images/bert_confusion_matrix.png) | <img src="images/hate_speech_model_deployment.PNG" style="width: 275px;"> |
 
 
-### [Project 3: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
-+ Developed an AI-assisted cover letter generator that empowers job seekers in crafting personalized and professional cover letters tailored to specific job offers.
-+ Scraped job postings by employing Python and Beautiful Soup and utilized the ChatGPT API to extract key information, including requirements and tasks, in JSON format.
-+ By leveraging the ChatGPT API further, cover letter suggestions were generated, aligning the candidate's education, work experience, skills, and motivation with the specific job's requirements and tasks.
-
-```
-{
-  "employer": "OpenAI",
-  "job title": "Research Scientist",
-  "requirements": [
-    "Track record of coming up with new ideas or improving 
-    upon existing ideas in machine learning",
-    "Ability to own and pursue a research agenda",
-    "Excitement about OpenAI's approach to research",
-    "Nice to have: Interested in and thoughtful about the 
-    impacts of AI technology",
-    "Nice to have: Past experience in creating high-performance 
-    implementations of deep learning algorithms"
-  ],
-  "tasks": [
-    "Develop innovative machine learning techniques",
-    "Advance the research agenda of the team",
-    "Collaborate with peers across the organization"
-  ],
-  "contact person": "unknown",
-  "address": "San Francisco, California, United States"
-}
-```
-
-
 <!-- COURSE CERTIFICATES -->
 ## 🏅 Course Certificates
 
