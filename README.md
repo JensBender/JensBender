@@ -38,6 +38,11 @@ To empower YouTube content creators and marketers with actionable insights into 
 
 This project enables YouTube content creators to easily monitor and evaluate their channel's performance relative to their peers, allowing for more informed decision-making and strategic planning.
 
+<div style="display: flex;">
+  <img src="images/powerbi_home.png" style="width: 49%;"> 
+  <img src="images/powerbi_top5.png" style="width: 49%;">
+</div>
+
 ### [Project 2: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
 + **Motivation**: Simplify the process of finding rental properties in Singapore's expensive real estate market by using machine learning to estimate rental prices. 
 + **Data collection**: Scraped 1680 property listings from an online property portal, including information on price, size, address, bedrooms, bathrooms and more.
