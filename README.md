@@ -39,8 +39,8 @@ To empower YouTube content creators and marketers with actionable insights into 
 This project enables YouTube content creators to easily monitor and evaluate their channel's performance relative to their peers, allowing for more informed decision-making and strategic planning.
 
 <div style="display: flex;">
-  <img src="[images/powerbi_home.png](https://github.com/JensBender/youtube-channel-analytics/tree/main/images)" style="width: 49%;"> 
-  <img src="[images/powerbi_top5.png](https://github.com/JensBender/youtube-channel-analytics/tree/main/images)" style="width: 49%;">
+  <img src="images/powerbi_home.png" style="width: 49%;"> 
+  <img src="images/powerbi_top5.png" style="width: 49%;">
 </div>
 
 ### [Project 2: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
