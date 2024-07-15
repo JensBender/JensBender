@@ -30,7 +30,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 ### [Project 1: YouTube Channel Analytics](https://github.com/JensBender/youtube-channel-analytics)
 To empower YouTube content creators and marketers with actionable insights into their channels' performance, especially in comparison to related channels, I developed an **ETL pipeline**. This involved:
 
-+ **Data Extraction**: Utilized the YouTube API to gather extensive data from three selected channels, including videos and comments data.
++ **Data Extraction**: Utilized the YouTube API to gather extensive data from three selected channels, including videos and comments.
 + **Data Transformation**: Employed Pandas to clean and process the extracted data for analysis.
 + **Data Loading**: Stored the transformed data in a MySQL database hosted on AWS.
 + **Automation**: Managed the ETL workflow using Apache Airflow, Docker, and AWS.
