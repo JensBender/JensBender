@@ -19,7 +19,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | Big Data           | [![Spark][Spark-badge]][Spark-url] |
 | Cloud              | [![AWS][AWS-badge]][AWS-url] |
 | DevOps             | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
-| Version Control    | [![Git][Git-badge]][Git-url] |
+| Version Control    | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
 | Web Development    | [![Flask][Flask-badge]][Flask-url] |
 | Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
 
@@ -122,6 +122,8 @@ Skills: MySQL · SQL
 [Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
 [Git-badge]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
+[GitHub-badge]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/
 [JupyterNotebook-badge]: https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
 [JupyterNotebook-url]: https://jupyter.org/
 [Matplotlib-badge]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
