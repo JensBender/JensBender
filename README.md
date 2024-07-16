@@ -28,7 +28,8 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 ## 💻 Portfolio
 
 ### [Project 1: YouTube Channel Analytics](https://github.com/JensBender/youtube-channel-analytics)
-[![Python][Python-badge]][Python-url] [![Pandas][Pandas-badge]][Pandas-url] [![MySQL][MySQL-badge]][MySQL-url] [![Airflow][Airflow-badge]][Airflow-url] [![Docker][Docker-badge]][Docker-url] [![AWS][AWS-badge]][AWS-url] [![Power BI][PowerBI-badge]][PowerBI-url]
+[![Python][Python-badge]][Python-url] [![Pandas][Pandas-badge]][Pandas-url] [![MySQL][MySQL-badge]][MySQL-url] [![Airflow][Airflow-badge]][Airflow-url] [![Docker][Docker-badge]][Docker-url] [![AWS][AWS-badge]][AWS-url] [![Power BI][PowerBI-badge]][PowerBI-url] 
+
 To empower YouTube content creators and marketers with actionable insights into their channel's performance, especially in comparison to related channels, I developed a comprehensive **ETL pipeline** and designed an interactive **Power BI report**. This project involved:
 
 + **Data Extraction**: Utilized the YouTube API to gather extensive data from three selected channels, including videos and comments.
