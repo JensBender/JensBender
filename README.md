@@ -10,18 +10,18 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 <!-- SKILLS -->
 ## 🛠️ Skills
 
-| Category           | Skill    |
-| ------------------ | -------- |
-| Programming        | [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] |
-| Data Manipulation  | [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] |
-| Data Visualization | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] [![Power BI][PowerBI-badge]][PowerBI-url] |
-| Machine Learning   | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] |
-| Big Data           | [![Spark][Spark-badge]][Spark-url] |
-| Cloud              | [![AWS][AWS-badge]][AWS-url] |
-| DevOps             | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
-| Version Control    | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
-| Web Development    | [![Flask][Flask-badge]][Flask-url] |
-| Code Editors       | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
+| Category                 | Skill    |
+| ------------------------ | -------- |
+| Programming              | [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] |
+| Data Manipulation        | [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] |
+| Data Visualization       | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Plotly][Plotly-badge]][Plotly-url] [![Power BI][PowerBI-badge]][PowerBI-url] |
+| Machine Learning         | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] |
+| Big Data                 | [![Spark][Spark-badge]][Spark-url] |
+| Cloud                    | [![AWS][AWS-badge]][AWS-url] |
+| DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
+| Version Control          | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
+| Web Development          | [![Flask][Flask-badge]][Flask-url] |
+| Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
 
 
 <!-- PORTFOLIO -->
