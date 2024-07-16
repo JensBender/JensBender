@@ -40,8 +40,6 @@ This project enables YouTube content creators to easily monitor and evaluate the
 
 <img src="images/powerbi_home.PNG" alt="PowerBI Home" style="width:80%;">
 
-![PowerBI Home](images/powerbi_home.PNG)
-
 ### [Project 2: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
 + **Motivation**: Simplify the process of finding rental properties in Singapore's expensive real estate market by using machine learning to estimate rental prices. 
 + **Data collection**: Scraped 1680 property listings from an online property portal, including information on price, size, address, bedrooms, bathrooms and more.
