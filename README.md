@@ -67,7 +67,7 @@ This project enables YouTube content creators to easily monitor and evaluate the
 | ![BERT-confusion-matrix](images/bert_confusion_matrix.png) | <img src="images/hate_speech_model_deployment.PNG" style="width: 275px;"> |
 
 ### [Project 4: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
-[![ChatGPT][ChatGPT-badge]][ChatGPT-url] [![Python][Python-badge]][Python-url] [![Requests][Requests-badge]][Requests-url] [![Beautiful Soup][BeautifulSoup-badge]][BeautifulSoup-url] 
+[![ChatGPT][ChatGPT-badge]][ChatGPT-url] [![Python][Python-badge]][Python-url] [![Requests][Requests-badge]][Requests-url] [![Beautiful Soup][BeautifulSoup-badge]][BeautifulSoup-url]  
 This AI-powered tool streamlines the cover letter writing process, transforming job postings into compelling, personalized applications. Simply provide a job posting URL and your personal background information to generate tailored cover letters.
 
 Project Highlights:
