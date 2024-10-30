@@ -66,6 +66,19 @@ This project enables YouTube content creators to easily monitor and evaluate the
 | ------------------ | ------------------ | 
 | ![BERT-confusion-matrix](images/bert_confusion_matrix.png) | <img src="images/hate_speech_model_deployment.PNG" style="width: 275px;"> |
 
+### [Project 4: ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator)
+[![ChatGPT][ChatGPT-badge]][ChatGPT-url] [![Python][Python-badge]][Python-url] [![Requests][Requests-badge]][Requests-url] [![Beautiful Soup][BeautifulSoup-badge]][BeautifulSoup-url] 
+This AI-powered tool streamlines the cover letter writing process, transforming job postings into compelling, personalized applications. Simply provide a job posting URL and your personal background information to generate tailored cover letters.
+
+Project Highlights:
+- **Web Scraping**: Retrieves the job description text directly from the job posting URL using `Requests` and `BeautifulSoup`, with automatic language detection using `langdetect`.
+- **Intelligent Information Extraction**: Analyzes job descriptions to identify and extract crucial information, including the job requirements, tasks, job title, and employer details using `OpenAI's chat completions API` with `structured outputs`. Leverages `Pydantic` to validate the JSON output.
+- **Automated Cover Letter Generation**: Creates three unique cover letter suggestions by matching personal qualifications with job requirements using `chat completions API`.
+- **Refinement and Consolidation**: Reviews and refines each cover letter, then consolidates them into a final, optimized cover letter, providing you with ready-to-edit drafts.
+- **Multilingual and Personalization Support**: Provides cover letters in both English and German and allows customization for personal background, motivation, salary expectations, and start date.
+
+Streamline your job application process and increase your chances of landing interviews with professionally crafted cover letters that effectively showcase your qualifications.
+
 
 <!-- COURSE CERTIFICATES -->
 ## 🏅 Course Certificates
@@ -116,6 +129,10 @@ Skills: MySQL · SQL
 [Airflow-url]: https://airflow.apache.org/
 [AWS-badge]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [AWS-url]: https://aws.amazon.com/
+[BeautifulSoup-badge]: https://img.shields.io/badge/Beautiful%20Soup-4B8BBE?style=for-the-badge
+[BeautifulSoup-url]: https://www.crummy.com/software/BeautifulSoup/
+[ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+[ChatGPT-url]: https://openai.com/blog/chatgpt
 [Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 [Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
@@ -146,6 +163,8 @@ Skills: MySQL · SQL
 [PyCharm-url]: https://www.jetbrains.com/pycharm/
 [Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
+[Requests-badge]: https://img.shields.io/badge/Requests-black?style=for-the-badge
+[Requests-url]: https://requests.readthedocs.io/
 [scikit-learn-badge]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
 [scikit-learn-url]: https://scikit-learn.org/stable/
 [Spark-badge]: https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white
