@@ -132,7 +132,7 @@ Skills: MySQL · SQL
 [BeautifulSoup-badge]: https://img.shields.io/badge/Beautiful%20Soup-4B8BBE?style=for-the-badge
 [BeautifulSoup-url]: https://www.crummy.com/software/BeautifulSoup/
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
-[ChatGPT-url]: https://openai.com/blog/chatgpt
+[ChatGPT-url]: https://chatgpt.com/
 [Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 [Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
