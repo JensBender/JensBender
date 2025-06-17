@@ -18,7 +18,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | AI & Machine Learning    | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] |
 | Big Data                 | [![Spark][Spark-badge]][Spark-url] |
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
-| DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
+| DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] [![pytest][Pytest-badge]][Pytest-url] |
 | Version Control          | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
 | Web Development          | [![Flask][Flask-badge]][Flask-url] [![Gradio][Gradio-badge]][Gradio-url] |
 | Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] |
@@ -162,6 +162,8 @@ Skills: MySQL · SQL
 [PyCharm-badge]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [PyCharm-url]: https://www.jetbrains.com/pycharm/
 [Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Pytest-badge]: https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3
+[Pytest-url]: https://docs.pytest.org/
 [Python-url]: https://www.python.org/
 [Requests-badge]: https://img.shields.io/badge/Requests-black?style=for-the-badge
 [Requests-url]: https://requests.readthedocs.io/
