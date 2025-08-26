@@ -20,7 +20,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
 | DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] [![pytest][Pytest-badge]][Pytest-url] |
 | Version Control          | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
-| Web Development          | [![Flask][Flask-badge]][Flask-url] [![Gradio][Gradio-badge]][Gradio-url] |
+| Web Development          | [![Flask][Flask-badge]][Flask-url] [![Gradio][Gradio-badge]][Gradio-url] [![FastAPI][FastAPI-badge]][FastAPI-url] [![Pydantic][Pydantic-badge]][Pydantic-url] |
 | Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] |
 
 
@@ -135,6 +135,8 @@ Skills: MySQL · SQL
 [ChatGPT-url]: https://chatgpt.com/
 [Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
+[FastAPI-badge]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+[FastAPI-url]: https://fastapi.tiangolo.com/
 [Flask-badge]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
 [Git-badge]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
@@ -161,6 +163,8 @@ Skills: MySQL · SQL
 [Plotly-url]: https://plotly.com/python/
 [PyCharm-badge]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [PyCharm-url]: https://www.jetbrains.com/pycharm/
+[Pydantic-badge]: https://img.shields.io/badge/Pydantic-3776AB?style=for-the-badge&logo=pydantic&logoColor=white
+[Pydantic-url]: https://docs.pydantic.dev/
 [Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Pytest-badge]: https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3
 [Pytest-url]: https://docs.pytest.org/
