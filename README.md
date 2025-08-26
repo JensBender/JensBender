@@ -141,7 +141,7 @@ Skills: MySQL · SQL
 [Git-url]: https://git-scm.com/
 [GitHub-badge]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/
-[Gradio-badge]: https://img.shields.io/badge/Gradio-fc7404?style=for-the-badge&logoColor=white
+[Gradio-badge]: https://img.shields.io/badge/Gradio-fc7404?style=for-the-badge&logo=gradio&logoColor=white
 [Gradio-url]: https://gradio.app
 [HuggingFace-badge]: https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black
 [HuggingFace-url]: https://huggingface.co/
@@ -177,5 +177,5 @@ Skills: MySQL · SQL
 [Spyder-url]: https://www.spyder-ide.org/
 [TensorFlow-badge]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
 [TensorFlow-url]: https://www.tensorflow.org/
-[VisualStudioCode-badge]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[VisualStudioCode-badge]: https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white
 [VisualStudioCode-url]: https://code.visualstudio.com/
