@@ -20,8 +20,8 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
 | DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] [![pytest][Pytest-badge]][Pytest-url] |
 | Version Control          | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
-| Web Development          | [![Flask][Flask-badge]][Flask-url] [![Gradio][Gradio-badge]][Gradio-url] [![FastAPI][FastAPI-badge]][FastAPI-url] [![Pydantic][Pydantic-badge]][Pydantic-url] |
-| Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] |
+| Web Development          | [![FastAPI][FastAPI-badge]][FastAPI-url] [![Flask][Flask-badge]][Flask-url] [![Gradio][Gradio-badge]][Gradio-url] [![Pydantic][Pydantic-badge]][Pydantic-url] |
+| Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
 
 
 <!-- PORTFOLIO -->
