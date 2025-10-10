@@ -18,7 +18,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | AI & Machine Learning    | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] |
 | Big Data                 | [![Spark][Spark-badge]][Spark-url] |
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
-| DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] [![pytest][Pytest-badge]][Pytest-url] |
+| DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] [![pytest][Pytest-badge]][Pytest-url] [![Selenium][Selenium-badge]][Selenium-url] |
 | Version Control          | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
 | Web Development          | [![FastAPI][FastAPI-badge]][FastAPI-url] [![Flask][Flask-badge]][Flask-url] [![Gradio][Gradio-badge]][Gradio-url] [![Pydantic][Pydantic-badge]][Pydantic-url] |
 | Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
@@ -175,6 +175,8 @@ Skills: MySQL · SQL
 [scikit-learn-url]: https://scikit-learn.org/stable/
 [Seaborn-badge]: https://img.shields.io/badge/seaborn-%230C4A89.svg?style=for-the-badge&logo=seaborn&logoColor=white
 [Seaborn-url]: https://seaborn.pydata.org/
+[Selenium-badge]: https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white
+[Selenium-url]: https://www.selenium.dev/
 [Spark-badge]: https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white
 [Spark-url]: https://spark.apache.org/
 [Spyder-badge]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
