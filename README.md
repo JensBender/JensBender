@@ -117,8 +117,6 @@ Skills: MySQL · SQL
 [Airflow-url]: https://airflow.apache.org/
 [AWS-badge]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [AWS-url]: https://aws.amazon.com/
-[BeautifulSoup-badge]: https://img.shields.io/badge/Beautiful%20Soup-4B8BBE?style=for-the-badge
-[BeautifulSoup-url]: https://www.crummy.com/software/BeautifulSoup/
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 [ChatGPT-url]: https://chatgpt.com/
 [Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
@@ -157,8 +155,6 @@ Skills: MySQL · SQL
 [Pytest-badge]: https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3
 [Pytest-url]: https://docs.pytest.org/
 [Python-url]: https://www.python.org/
-[Requests-badge]: https://img.shields.io/badge/Requests-black?style=for-the-badge
-[Requests-url]: https://requests.readthedocs.io/
 [scikit-learn-badge]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
 [scikit-learn-url]: https://scikit-learn.org/stable/
 [Seaborn-badge]: https://img.shields.io/badge/seaborn-%230C4A89.svg?style=for-the-badge&logo=seaborn&logoColor=white
