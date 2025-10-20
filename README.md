@@ -119,7 +119,7 @@ Skills: MySQL · SQL
 [AWS-url]: https://aws.amazon.com/
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 [ChatGPT-url]: https://chatgpt.com/
-[Cursor-badge]: https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white
+[Cursor-badge]: https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/JensBender/JensBender/main/images/cursor-logo.svg&logoColor=white
 [Cursor-url]: https://www.cursor.com/
 [Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
