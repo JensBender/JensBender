@@ -22,7 +22,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
 | Testing                  | [![pytest][Pytest-badge]][Pytest-url] [![Selenium][Selenium-badge]][Selenium-url] |
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
-| Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Spyder-badge]][Spyder-url] |
+| Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![Visual Studio Code][VisualStudioCode-badge]][VisualStudioCode-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Cursor-badge]][Cursor-url] |
 
 
 <!-- PORTFOLIO -->
@@ -119,6 +119,8 @@ Skills: MySQL · SQL
 [AWS-url]: https://aws.amazon.com/
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 [ChatGPT-url]: https://chatgpt.com/
+[Cursor-badge]: https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white
+[Cursor-url]: https://www.cursor.com/
 [Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 [FastAPI-badge]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
@@ -163,8 +165,6 @@ Skills: MySQL · SQL
 [Selenium-url]: https://www.selenium.dev/
 [Spark-badge]: https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white
 [Spark-url]: https://spark.apache.org/
-[Spyder-badge]: https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon
-[Spyder-url]: https://www.spyder-ide.org/
 [TensorFlow-badge]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
 [TensorFlow-url]: https://www.tensorflow.org/
 [VisualStudioCode-badge]: https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white
