@@ -37,6 +37,8 @@ Developed a machine learning solution to predict loan defaults using customer ap
 - **Deployment**: Served the full machine learning pipeline (data preprocessing and final model) as a web app using FastAPI backend and Gradio frontend within a single Docker container.
 - **Testing**: Implemented comprehensive unit, integration, and end-to-end tests to validate individual components, their interactions, and entire user journeys.
 
+<img src="images/precision_recall_curves_tuned.png" alt="Precision-Recall Curves" style="width: 80%;">
+
 ### [Project 2: ETL Pipeline for YouTube Channel Analytics](https://github.com/JensBender/youtube-channel-analytics)
 [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] [![Airflow][Airflow-badge]][Airflow-url] [![Docker][Docker-badge]][Docker-url] [![AWS][AWS-badge]][AWS-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] [![Power BI][PowerBI-badge]][PowerBI-url]  
 To empower YouTube content creators and marketers with actionable insights into their channel's performance, especially in comparison to related channels, I developed a comprehensive **ETL pipeline** and designed an interactive **Power BI report**. This project involved:
@@ -49,7 +51,7 @@ To empower YouTube content creators and marketers with actionable insights into 
 
 This project enables YouTube content creators to easily monitor and evaluate their channel's performance relative to their peers, allowing for more informed decision-making and strategic planning.
 
-<img src="images/powerbi_comments.PNG" alt="PowerBI Comments" style="width:80%;">
+<img src="images/powerbi_comments.PNG" alt="PowerBI Comments" style="width: 80%;">
 
 ### [Project 3: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
 [![Python][Python-badge]][Python-url] [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![Flask][Flask-badge]][Flask-url] [![Docker][Docker-badge]][Docker-url]  
