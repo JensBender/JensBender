@@ -29,6 +29,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 ## 💻 Portfolio
 
 ### [Project 1: Loan Default Prediction](https://github.com/JensBender/loan-default-prediction) 
+[![Python][Python-badge]][Python-url] [![Pandas][Pandas-badge]][Pandas-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![FastAPI][FastAPI-badge]][FastAPI-url] [![pytest][Pytest-badge]][Pytest-url] [![Docker][Docker-badge]][Docker-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url]    
 Developed a machine learning solution to predict loan defaults using customer application data, empowering financial institutions to make data-driven lending decisions and minimize risk. This project involved:
 - **Data Preprocessing**: Engineered new features (e.g., job stability, city tier, state default rate), handled duplicates, data types, missing values, and outliers, scaled numerical features, and encoded categorical features.
 - **Exploratory Data Analysis**: Analyzed descriptive statistics and visualized distributions, correlations and relationships.
