@@ -36,7 +36,7 @@ Developed a machine learning solution to predict loan defaults using customer ap
 - **Deployment**: Served the full machine learning pipeline (data preprocessing and final model) as a web app using FastAPI backend and Gradio frontend within a single Docker container.
 - **Testing**: Implemented comprehensive unit, integration, and end-to-end tests to validate individual components, their interactions, and entire user journeys.
 
-### [Project 1: ETL Pipeline for YouTube Channel Analytics](https://github.com/JensBender/youtube-channel-analytics)
+### [Project 2: ETL Pipeline for YouTube Channel Analytics](https://github.com/JensBender/youtube-channel-analytics)
 [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] [![Airflow][Airflow-badge]][Airflow-url] [![Docker][Docker-badge]][Docker-url] [![AWS][AWS-badge]][AWS-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] [![Power BI][PowerBI-badge]][PowerBI-url]  
 To empower YouTube content creators and marketers with actionable insights into their channel's performance, especially in comparison to related channels, I developed a comprehensive **ETL pipeline** and designed an interactive **Power BI report**. This project involved:
 
@@ -50,7 +50,7 @@ This project enables YouTube content creators to easily monitor and evaluate the
 
 <img src="images/powerbi_comments.PNG" alt="PowerBI Comments" style="width:80%;">
 
-### [Project 2: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
+### [Project 3: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
 [![Python][Python-badge]][Python-url] [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![Flask][Flask-badge]][Flask-url] [![Docker][Docker-badge]][Docker-url]  
 - **Motivation**: Simplify the process of finding rental properties in Singapore's expensive real estate market by using machine learning to estimate rental prices. 
 - **Data Collection**: Scraped 1680 property listings from an online property portal, including information on price, size, address, bedrooms, bathrooms and more.
@@ -64,7 +64,7 @@ This project enables YouTube content creators to easily monitor and evaluate the
   <img src="images/feature_importance.png" style="width: 49%;">
 </div>
 
-### [Project 3: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
+### [Project 4: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
 [![Python][Python-badge]][Python-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Flask][Flask-badge]][Flask-url]  
 - **Motivation**: Develop a hate speech detector for social media comments. 
 - **Data**: Utilized the [ETHOS Hate Speech Detection Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset).
