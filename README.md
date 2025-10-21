@@ -28,6 +28,14 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 <!-- PORTFOLIO -->
 ## 💻 Portfolio
 
+### [Project 1: Loan Default Prediction](https://github.com/JensBender/loan-default-prediction) 
+Developed a machine learning solution to predict loan defaults using customer application data, empowering financial institutions to make data-driven lending decisions and minimize risk. This project involved:
+- **Data Preprocessing**: Engineered new features (e.g., job stability, city tier, state default rate), handled duplicates, data types, missing values, and outliers, scaled numerical features, and encoded categorical features.
+- **Exploratory Data Analysis**: Analyzed descriptive statistics and visualized distributions, correlations and relationships.
+- **Modeling**: Trained and evaluated eight baseline models (e.g., Logistic Regression, Random Forest, XGBoost) and tuned hyperparameters. The final model, a Random Forest classifier with optimized decision threshold, achieved an AUC-PR of 0.62, class-1 recall of 0.80, and class-1 precision of 0.54. Visualized feature importances and showed model prediction examples.
+- **Deployment**: Served the full machine learning pipeline (data preprocessing and final model) as a web app using FastAPI backend and Gradio frontend within a single Docker container.
+- **Testing**: Implemented comprehensive unit, integration, and end-to-end tests to validate individual components, their interactions, and entire user journeys.
+
 ### [Project 1: ETL Pipeline for YouTube Channel Analytics](https://github.com/JensBender/youtube-channel-analytics)
 [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] [![Airflow][Airflow-badge]][Airflow-url] [![Docker][Docker-badge]][Docker-url] [![AWS][AWS-badge]][AWS-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] [![Power BI][PowerBI-badge]][PowerBI-url]  
 To empower YouTube content creators and marketers with actionable insights into their channel's performance, especially in comparison to related channels, I developed a comprehensive **ETL pipeline** and designed an interactive **Power BI report**. This project involved:
