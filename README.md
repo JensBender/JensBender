@@ -40,7 +40,10 @@ Built an end-to-end machine learning solution for predicting loan defaults using
 **Model Pipeline:** [Hugging Face Hub](https://huggingface.co/JensBender/loan-default-prediction-pipeline)  
 **Web App:** [Hugging Face Spaces](https://huggingface.co/spaces/JensBender/loan-default-prediction-app)
 
-<img src="images/precision_recall_curves_tuned.png" alt="Precision-Recall Curves" style="width: 80%;">
+<div style="display: flex;">
+  <img src="images/precision_recall_curves_tuned.png" alt="Precision-Recall Curves" style="width: 49%;"> 
+  <img src="images/loan_default_web_app.png" alt="Web App" style="width: 49%;">
+</div>
 
 ### [Project 2: ETL Pipeline for YouTube Channel Analytics](https://github.com/JensBender/youtube-channel-analytics)
 [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] [![Airflow][Airflow-badge]][Airflow-url] [![Docker][Docker-badge]][Docker-url] [![AWS][AWS-badge]][AWS-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] [![Power BI][PowerBI-badge]][PowerBI-url]  
