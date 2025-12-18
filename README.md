@@ -39,10 +39,10 @@ Built an end-to-end machine learning solution for predicting loan defaults using
 
 **Model Pipeline:** [Hugging Face Hub](https://huggingface.co/JensBender/loan-default-prediction-pipeline)  
 **Web App:** [Hugging Face Spaces](https://huggingface.co/spaces/JensBender/loan-default-prediction-app)
-
 <img src="images/loan_default_web_app.png" alt="Web App">
+
 <details>
-<summary>Click to see Model Performance</summary>
+<summary>ℹ️ <strong>Model Performance</strong> (click to expand)</summary>
 <img src="images/precision_recall_curves_tuned.png" alt="Precision-Recall Curves">
 </details>
 
