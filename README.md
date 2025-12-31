@@ -124,10 +124,10 @@ Skills: MySQL · SQL
 ## 👨‍💻 GitHub Statistics
 <p align="left">
   <a href="https://github.com/JensBender">
-    <img src="https://github-readme-stats.vercel.app/api?username=JensBender&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Jens's GitHub stats" height="180px" />
+    <img src="https://github-readme-stats-867.vercel.app/api?username=JensBender&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Jens's GitHub stats" height="180px" />
   </a>
   <a href="https://github.com/JensBender">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JensBender&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-stats-867.vercel.app/api/top-langs/?username=JensBender&layout=compact&theme=radical" alt="Top Languages" height="180px" />
   </a>
 </p>
 
