@@ -22,7 +22,7 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] |
 | Testing                  | [![pytest][Pytest-badge]][Pytest-url] [![Selenium][Selenium-badge]][Selenium-url] |
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
-| Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![VS Code][VSCode-badge]][VSCode-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Spyder][Cursor-badge]][Cursor-url] |
+| Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![VS Code][VSCode-badge]][VSCode-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Cursor][Cursor-badge]][Cursor-url] |
 
 
 <!-- PORTFOLIO -->
@@ -122,7 +122,14 @@ Skills: MySQL · SQL
 
 <!-- GITHUB STATISTICS -->
 ## 👨‍💻 GitHub Statistics
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JensBender&layout=compact)](https://github.com/JensBender)
+<p align="left">
+  <a href="https://github.com/JensBender">
+    <img src="https://github-readme-stats.vercel.app/api?username=JensBender&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Jens's GitHub stats" height="180px" />
+  </a>
+  <a href="https://github.com/JensBender">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JensBender&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  </a>
+</p>
 
 
 <!-- CREDITS -->
