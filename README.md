@@ -3,7 +3,7 @@
 # Hi there! I'm Jens
 
 ## 👋 About Me
-I'm an enthusiastic **data scientist** with over eight years of experience in data analysis, data visualization, and data storytelling. I enjoy solving challenging problems, harnessing the power of machine learning to derive valuable insights, and effectively communicating complex information.
+PhD Researcher with 8+ years in advanced statistical modeling, now applying these skills to solve Data Science problems. Expertise in end-to-end ML pipelines—from data ingestion to deployed web apps and APIs. Translating complex data into actionable insights and production-ready solutions.
 
 
 ## 🛠️ Skills
