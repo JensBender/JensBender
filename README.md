@@ -2,12 +2,10 @@
 
 # Hi there! I'm Jens
 
-<!-- ABOUT ME -->
 ## 👋 About Me
 I'm an enthusiastic **data scientist** with over eight years of experience in data analysis, data visualization, and data storytelling. I enjoy solving challenging problems, harnessing the power of machine learning to derive valuable insights, and effectively communicating complex information.
 
 
-<!-- SKILLS -->
 ## 🛠️ Skills
 
 | Category                 | Skill    |
@@ -25,7 +23,6 @@ I'm an enthusiastic **data scientist** with over eight years of experience in da
 | Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![VS Code][VSCode-badge]][VSCode-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Cursor][Cursor-badge]][Cursor-url] |
 
 
-<!-- PORTFOLIO -->
 ## 💻 Portfolio
 
 ### [Project 1: Loan Default Prediction](https://github.com/JensBender/loan-default-prediction) 
@@ -86,8 +83,7 @@ This project enables YouTube content creators to easily monitor and evaluate the
 | ![BERT-confusion-matrix](images/bert_confusion_matrix.png) | <img src="images/hate_speech_model_deployment.PNG" style="width: 275px;"> |
 
 
-<!-- COURSE CERTIFICATES -->
-## 🏅 Course Certificates
+## 🏅 Certifications & Courses
 
 **Advanced SQL: MySQL for Ecommerce & Web Analytics**, Udemy, February 2024, [🔗 see certificate](https://www.udemy.com/certificate/UC-ac04dd78-4589-4b2e-a863-7722cd78ec2f/)  
 Skills: MySQL · SQL
@@ -120,7 +116,6 @@ Skills: Decision Trees · Support Vector Machine (SVM) · Matplotlib · Naive Ba
 Skills: MySQL · SQL
 
 
-<!-- GITHUB STATISTICS -->
 ## 👨‍💻 GitHub Statistics
 <p align="left">
   <a href="https://github.com/JensBender">
@@ -129,7 +124,6 @@ Skills: MySQL · SQL
 </p>
 
 
-<!-- CREDITS -->
 ## ©️ Credits
 <sup><small>Profile banner GIF based on the video by [RDNE Stock project](https://www.pexels.com/video/business-analytics-presentation-7947451/) from Pexels</small></sup>
 
