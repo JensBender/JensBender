@@ -85,34 +85,34 @@ This project enables YouTube content creators to easily monitor and evaluate the
 
 ## 🏅 Certifications & Courses
 
-**Advanced SQL: MySQL for Ecommerce & Web Analytics**, Udemy, February 2024, [🔗 Certificate](https://www.udemy.com/certificate/UC-ac04dd78-4589-4b2e-a863-7722cd78ec2f/)  
+**Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy, February 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-ac04dd78-4589-4b2e-a863-7722cd78ec2f/)  
 Skills: MySQL · SQL
 
-**AWS Certified Cloud Practitioner**, AWS, January 2024, [🔗 Certificate](https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url)  
+**AWS Certified Cloud Practitioner** | AWS, January 2024 | [🔗 Certificate](https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url)  
 Skills: Amazon Web Services (AWS) 
 
-**Ultimate AWS Certified Cloud Practitioner CLF-C02**, Udemy, January 2024, [🔗 Certificate](https://www.udemy.com/certificate/UC-2090637d-9845-42f3-9f7b-97195874331a/)  
+**Ultimate AWS Certified Cloud Practitioner CLF-C02** | Udemy, January 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-2090637d-9845-42f3-9f7b-97195874331a/)  
 Skills: Amazon Web Services (AWS) 
 
-**Spark and Python for Big Data with PySpark**, Udemy, January 2024, [🔗 Certificate](https://www.udemy.com/certificate/UC-27da6f52-bc5f-4e72-bc5b-c2cd488566b0/)  
+**Spark and Python for Big Data with PySpark** | Udemy, January 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-27da6f52-bc5f-4e72-bc5b-c2cd488566b0/)  
 Skills: Spark · PySpark · AWS · Python · Machine Learning · Linear Regression · Logistic Regression · Decision Trees · Random Forest · Gradient Boosting · k-means clustering · Recommender Systems · Natural Language Processing (NLP) 
 
-**Microsoft Power BI Data Analyst**, Udemy, November 2023, [🔗 Certificate](https://www.udemy.com/certificate/UC-eb56c820-8c91-4e03-8c57-efdc8c570c6b/)  
+**Microsoft Power BI Data Analyst** | Udemy, November 2023 | [🔗 Certificate](https://www.udemy.com/certificate/UC-eb56c820-8c91-4e03-8c57-efdc8c570c6b/)  
 Skills: Power BI
 
-**Deep Learning**, alfatraining Bildungszentrum GmbH, April 2023  
+**Deep Learning** | alfatraining Bildungszentrum GmbH, April 2023  
 Skills: TensorFlow · NumPy · Natural Language Processing (NLP) · Python · Deep Learning · Recurrent Neural Networks (RNN) · Neural Networks · Scikit-Learn · Reinforcement Learning · Transfer Learning · Convolutional Neural Networks (CNN) · Time Series Analysis
 
-**Machine Learning by Stanford University & DeepLearning.AI**, Coursera, April 2023, [🔗 Certificate](https://coursera.org/share/1c62950a6100b0426d454b652e77498c)  
+**Machine Learning by Stanford University & DeepLearning.AI** | Coursera, April 2023 | [🔗 Certificate](https://coursera.org/share/1c62950a6100b0426d454b652e77498c)  
 Skills: Decision Trees · Recommender Systems · Anomaly Detection · Python · Linear Regression · Neural Networks · Logistic Regression · Reinforcement Learning · Principal Component Analysis · k-means clustering
 
-**Python for Machine Learning & Data Science Masterclass**, Udemy, March 2023, [🔗 Certificate](https://www.udemy.com/certificate/UC-4de79ac0-2282-45c9-93e1-a7cb6f812592/)  
+**Python for Machine Learning & Data Science Masterclass** | Udemy, March 2023 | [🔗 Certificate](https://www.udemy.com/certificate/UC-4de79ac0-2282-45c9-93e1-a7cb6f812592/)  
 Skills: Decision Trees · Support Vector Machine (SVM) · Matplotlib · Random Forest · Naive Bayes · NumPy · Seaborn · Hierarchical Clustering · Natural Language Processing (NLP) · Pandas · Python · Linear Regression · Scikit-Learn · Logistic Regression · Principal Component Analysis · Gradient Boosting · DBSCAN · k-means clustering · K-Nearest Neighbors (KNN)
 
-**Machine Learning**, alfatraining Bildungszentrum GmbH, February 2023  
+**Machine Learning** | alfatraining Bildungszentrum GmbH, February 2023  
 Skills: Decision Trees · Support Vector Machine (SVM) · Matplotlib · Naive Bayes · NumPy · Hierarchical Clustering · Pandas · Python · Linear Regression · Neural Networks · Scikit-Learn · Principal Component Analysis · DBSCAN · k-means clustering · K-Nearest Neighbors (KNN)
 
-**The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert**, Udemy, December 2022, [🔗 Certificate](https://www.udemy.com/certificate/UC-e324e4f7-95ba-4894-b8e0-65229ff5e2dc)  
+**The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert** | Udemy, December 2022 | [🔗 Certificate](https://www.udemy.com/certificate/UC-e324e4f7-95ba-4894-b8e0-65229ff5e2dc)  
 Skills: MySQL · SQL
 
 
