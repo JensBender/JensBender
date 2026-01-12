@@ -85,40 +85,40 @@ This project enables YouTube content creators to easily monitor and evaluate the
 
 ## 🏅 Certifications & Courses
 
-**Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy, February 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-ac04dd78-4589-4b2e-a863-7722cd78ec2f/)  
+**Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-ac04dd78-4589-4b2e-a863-7722cd78ec2f/)  
 Skills: MySQL · Business Intelligence · Data Analysis · Subqueries · Temporary Tables
 
-**AWS Certified Cloud Practitioner** | AWS, January 2024 | [🔗 Certificate](https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url)  
+**AWS Certified Cloud Practitioner** | AWS | January 2024 | [🔗 Certificate](https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url)  
 Skills: Amazon Web Services (AWS) · Cloud Concepts · Security & Compliance · Billing & Pricing
 
-**Ultimate AWS Certified Cloud Practitioner CLF-C02** | Udemy, January 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-2090637d-9845-42f3-9f7b-97195874331a/)  
+**Ultimate AWS Certified Cloud Practitioner CLF-C02** | Udemy | January 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-2090637d-9845-42f3-9f7b-97195874331a/)  
 Skills: Amazon Web Services (AWS) · Identity and Access Management (IAM) · Elastic Compute Cloud (EC2) · Simple Storage Service (S3) · Virtual Private Cloud (VPC) · CloudWatch · Database & Analytics
 
-**Spark and Python for Big Data with PySpark** | Udemy, January 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-27da6f52-bc5f-4e72-bc5b-c2cd488566b0/)  
+**Spark and Python for Big Data with PySpark** | Udemy | January 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-27da6f52-bc5f-4e72-bc5b-c2cd488566b0/)  
 Skills: Apache Spark · PySpark · Spark DataFrames · MLlib · Amazon Web Services (AWS) · Databricks
 
-**Microsoft Power BI Data Analyst** | Udemy, November 2023 | [🔗 Certificate](https://www.udemy.com/certificate/UC-eb56c820-8c91-4e03-8c57-efdc8c570c6b/)  
+**Microsoft Power BI Data Analyst** | Udemy | November 2023 | [🔗 Certificate](https://www.udemy.com/certificate/UC-eb56c820-8c91-4e03-8c57-efdc8c570c6b/)  
 Skills: Power BI · Power Query · Data Analysis Expressions (DAX) · Data Modeling · Interactive Dashboards
 
-**Deep Learning** | alfatraining Bildungszentrum GmbH, April 2023  
+**Deep Learning** | alfatraining Bildungszentrum GmbH | April 2023  
 Skills: TensorFlow · Neural Networks · Convolutional Neural Networks (CNN) · Computer Vision · Recurrent Neural Networks (RNN) · Long Short-Term Memory (LSTM) · Natural Language Processing (NLP) · Time Series Analysis
 
-**Machine Learning by Stanford University & DeepLearning.AI** | Coursera, April 2023 | [🔗 Certificate](https://coursera.org/share/1c62950a6100b0426d454b652e77498c)  
+**Machine Learning by Stanford University & DeepLearning.AI** | Coursera | April 2023 | [🔗 Certificate](https://coursera.org/share/1c62950a6100b0426d454b652e77498c)  
 Skills: Linear & Logistic Regression · Neural Networks · Recommender Systems · Reinforcement Learning
 
-**Python for Machine Learning & Data Science Masterclass** | Udemy, March 2023 | [🔗 Certificate](https://www.udemy.com/certificate/UC-4de79ac0-2282-45c9-93e1-a7cb6f812592/)  
+**Python for Machine Learning & Data Science Masterclass** | Udemy | March 2023 | [🔗 Certificate](https://www.udemy.com/certificate/UC-4de79ac0-2282-45c9-93e1-a7cb6f812592/)  
 Skills: scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · Random Forest · Gradient Boosting · Support Vector Machines (SVM) · DBSCAN
 
-**Machine Learning** | alfatraining Bildungszentrum GmbH, February 2023  
+**Machine Learning** | alfatraining Bildungszentrum GmbH | February 2023  
 Skills: Regression · K-Nearest Neighbors (KNN) · Decision Trees · Random Forest · Support Vector Machines (SVM) · Clustering · Principal Component Analysis (PCA) · Feature Engineering · Model Evaluation
 
-**The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert** | Udemy, December 2022 | [🔗 Certificate](https://www.udemy.com/certificate/UC-e324e4f7-95ba-4894-b8e0-65229ff5e2dc)  
+**The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert** | Udemy | December 2022 | [🔗 Certificate](https://www.udemy.com/certificate/UC-e324e4f7-95ba-4894-b8e0-65229ff5e2dc)  
 Skills: MySQL · Database Schemas · SQL Joins · Aggregate Functions · Window Functions
 
-**The Git & GitHub Bootcamp** | Udemy, September 2022  
+**The Git & GitHub Bootcamp** | Udemy | September 2022  
 Skills: Git · GitHub · Version Control · Branching · Merging · Pull Requests
 
-**100 Days of Code: The Complete Python Pro Bootcamp** | Udemy, April 2022 – November 2022  
+**100 Days of Code: The Complete Python Pro Bootcamp** | Udemy | April 2022 – November 2022  
 Skills: Python · OOP · Flask · Web Scraping (Beautiful Soup, Selenium) · APIs (Requests) · Automation
 
 
