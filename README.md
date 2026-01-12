@@ -115,6 +115,12 @@ Skills: Regression · K-Nearest Neighbors (KNN) · Decision Trees · Random Fore
 **The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert** | Udemy, December 2022 | [🔗 Certificate](https://www.udemy.com/certificate/UC-e324e4f7-95ba-4894-b8e0-65229ff5e2dc)  
 Skills: MySQL · Database Schemas · SQL Joins · Aggregate Functions · Window Functions
 
+**The Git & GitHub Bootcamp** | Udemy, September 2022  
+Skills: Git · GitHub · Version Control · Branching · Merging · Pull Requests
+
+**100 Days of Code: The Complete Python Pro Bootcamp** | Udemy, April 2022 – November 2022  
+Skills: Python · OOP · Flask · Web Scraping (Beautiful Soup, Selenium) · APIs (Requests) · Automation
+
 
 ## 👨‍💻 GitHub Statistics
 <p align="left">
