@@ -85,8 +85,23 @@ This project enables YouTube content creators to easily monitor and evaluate the
 
 ## 🏅 Certifications & Courses
 
+**ML in Production** | DeepLearning.AI | May 2025  
+Skills: MLOps · Data-Centric ML Lifecycle · Error Analysis
+
+**Hugging Face** | DeepLearning.AI | July 2024  
+Skills: Transformers · Multimodal AI · Gradio · HF Hub & Spaces
+
+**Data Engineering Foundations** | DeepLearning.AI | June 2024  
+Skills: Requirements Gathering · Tech Specs
+
+**IBM Data Engineering** | IBM | May 2024  
+Skills: ETL · Bash · Apache Airflow (DAGs)
+
 **Advanced SQL: MySQL for Ecommerce & Web Analytics** | Udemy | February 2024 | [🔗 Certificate](https://www.udemy.com/certificate/UC-ac04dd78-4589-4b2e-a863-7722cd78ec2f/)  
 Skills: MySQL · Business Intelligence · Data Analysis · Subqueries · Temporary Tables
+
+**A/B Testing** | Google | February 2024  
+Skills: Experimental Design · Metric Selection · Power Analysis · Sanity Checks
 
 **AWS Certified Cloud Practitioner** | AWS | January 2024 | [🔗 Certificate](https://www.credly.com/badges/3287f8a9-0dcd-48d2-afc3-c255faf027bc/public_url)  
 Skills: Amazon Web Services (AWS) · Cloud Concepts · Security & Compliance · Billing & Pricing
@@ -99,6 +114,12 @@ Skills: Apache Spark · PySpark · Spark DataFrames · MLlib · Amazon Web Servi
 
 **Microsoft Power BI Data Analyst** | Udemy | November 2023 | [🔗 Certificate](https://www.udemy.com/certificate/UC-eb56c820-8c91-4e03-8c57-efdc8c570c6b/)  
 Skills: Power BI · Power Query · Data Analysis Expressions (DAX) · Data Modeling · Interactive Dashboards
+
+**Product Management for AI** | 365 Data Science | November 2023  
+Skills: AI Strategy · UX · Stakeholder Management
+
+**LLM App Development** | OpenAI & DeepLearning.AI | June 2023  
+Skills: OpenAI API · Prompt Engineering
 
 **Deep Learning** | alfatraining Bildungszentrum GmbH | April 2023  
 Skills: TensorFlow · Neural Networks · Convolutional Neural Networks (CNN) · Computer Vision · Recurrent Neural Networks (RNN) · Long Short-Term Memory (LSTM) · Natural Language Processing (NLP) · Time Series Analysis
