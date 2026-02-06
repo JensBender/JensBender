@@ -3,7 +3,7 @@
 # Hi there! I'm Jens
 
 ## 👋 About Me
-PhD Researcher with 8+ years in advanced statistical modeling, now applying these skills to solve complex Data Science problems. Expertise in building production-grade, end-to-end pipelines that translate raw data into actionable insights via deployed web apps and APIs.
+PhD Researcher with 8+ years in advanced statistical modeling, now applying these skills to solve complex Data Science problems. Expertise in building robust, automated end-to-end ML solutions that translate raw data into actionable insights via deployed web apps and APIs.
 
 
 ## 🛠️ Skills
