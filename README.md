@@ -85,9 +85,9 @@ This project enables YouTube content creators to easily monitor and evaluate the
 
 ### More Projects
 
-- **[Medical Cost Planner](https://github.com/JensBender/medical-cost-prediction):** Currently developing an E2E ML application to predict annual out-of-pocket healthcare costs. Initial phase: authoring Product Requirements and Technical Specifications for a user-centric system design (task completion time <90s). Engineering the ML pipeline to translate complex survey data (MEPS) into personalized budgeting insights.
-- **[Machine Learning Template](https://github.com/JensBender/machine-learning-template):** Designed a versatile machine learning template for streamlining data preprocessing, exploratory data analysis, and modeling for both regression and classification tasks on structured tabular data. Integrated hyperparameter tuning and model evaluation, providing a flexible and efficient framework for ML workflows.
-- **[ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator):** Built a workflow that extracts key information from job postings via web scraping and uses the OpenAI API to generate and refine customized cover letters, aligning personal qualifications with job requirements.
+- **[Medical Cost Planner](https://github.com/JensBender/medical-cost-prediction):** Currently developing an AI-powered application to predict out-of-pocket healthcare costs for personalized financial planning.
+- **[Machine Learning Template](https://github.com/JensBender/machine-learning-template):** A versatile, ready-to-use machine learning template for tabular data. Streamlines EDA, data preprocessing, and modeling for regression and classification.
+- **[ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator):** LLM-driven cover letter generator. Transforms job postings into tailored applications using the OpenAI API and Web Scraping.
 
 
 ## 🏅 Certifications & Courses
