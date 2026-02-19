@@ -51,7 +51,7 @@ To empower YouTube content creators and marketers with actionable insights into 
 - **Data Transformation**: Performed sentiment analysis on video comments via API requests to a RoBERTa sentiment analysis model, which I deployed using Gradio on a private Hugging Face Space.
 - **Data Loading**: Stored the transformed data in a MySQL database hosted on AWS.
 - **Automation**: Managed the ETL workflow using Apache Airflow, Docker, and AWS.
-- **Data Visualization**: Designed an interactive Power BI report to deliver insigths into channel performance, featuring key metrics and comparative analysis. 
+- **Data Visualization**: Designed an interactive Power BI report to deliver insights into channel performance, featuring key metrics and comparative analysis. 
 
 This project enables YouTube content creators to easily monitor and evaluate their channel's performance relative to their peers, allowing for more informed decision-making and strategic planning.
 
