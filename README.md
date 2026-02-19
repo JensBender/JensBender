@@ -43,7 +43,7 @@ Built an end-to-end machine learning solution for predicting loan defaults using
 <img src="images/precision_recall_curves_tuned.png" alt="Precision-Recall Curves">
 </details>
 
-### [Project 2: ETL Pipeline for YouTube Channel Analytics](https://github.com/JensBender/youtube-channel-analytics)
+### [Project 2: YouTube ETL & Analytics](https://github.com/JensBender/youtube-channel-analytics)
 [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] [![Airflow][Airflow-badge]][Airflow-url] [![Docker][Docker-badge]][Docker-url] [![AWS][AWS-badge]][AWS-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] [![Power BI][PowerBI-badge]][PowerBI-url]  
 To empower YouTube content creators and marketers with actionable insights into their channel's performance, especially in comparison to related channels, I developed a comprehensive **ETL pipeline** and designed an interactive **Power BI report**. This project involved:
 
