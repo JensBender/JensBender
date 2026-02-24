@@ -36,8 +36,8 @@ Built an end-to-end machine learning solution for predicting loan defaults using
 
 **Model Pipeline:** [Hugging Face Hub](https://huggingface.co/JensBender/loan-default-prediction-pipeline)  
 **Web App:** [Hugging Face Spaces](https://huggingface.co/spaces/JensBender/loan-default-prediction-app)
-<img src="images/loan_default_web_app.png" alt="Web App">
 
+<img src="images/loan_default_web_app.png" alt="Web App">
 <details>
 <summary>ℹ️ <strong>Model Performance</strong> (click to expand)</summary>
 <img src="images/precision_recall_curves_tuned.png" alt="Precision-Recall Curves">
@@ -55,7 +55,11 @@ To empower YouTube content creators and marketers with actionable insights into 
 
 This project enables YouTube content creators to easily monitor and evaluate their channel's performance relative to their peers, allowing for more informed decision-making and strategic planning.
 
-<img src="images/powerbi_comments.PNG" alt="PowerBI Comments" style="width: 80%;">
+<img src="images/etl_pipeline.svg" alt="YouTube ETL Pipeline">
+<details>
+<summary>ℹ️ <strong>Power BI Dashboard</strong> (click to expand)</summary>
+<img src="images/powerbi_comments.PNG" alt="PowerBI Comments">
+</details>
 
 ### [Project 3: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
 [![Python][Python-badge]][Python-url] [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![Flask][Flask-badge]][Flask-url] [![Docker][Docker-badge]][Docker-url]  
