@@ -21,7 +21,6 @@ PhD Researcher with 8+ years in advanced statistical modeling, now applying thes
 | DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] [![GitHub Actions][GitHubActions-badge]][GitHubActions-url] |
 | Testing                  | [![pytest][Pytest-badge]][Pytest-url] [![Selenium][Selenium-badge]][Selenium-url] |
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
-| Development Environments | [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url] [![VS Code][VSCode-badge]][VSCode-url] [![PyCharm][PyCharm-badge]][PyCharm-url] [![Cursor][Cursor-badge]][Cursor-url] |
 
 
 ## 💻 Portfolio
@@ -174,8 +173,6 @@ This project enables YouTube content creators to easily monitor and evaluate the
 [AWS-url]: https://aws.amazon.com/
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 [ChatGPT-url]: https://chatgpt.com/
-[Cursor-badge]: https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBiYXNlUHJvZmlsZT0iYmFzaWMiPjxwb2x5Z29uIGZpbGw9IiNiY2JjYmMiIHBvaW50cz0iMjMuOTc0LDQgNi45NywxNCA2Ljk3LDM0IDIzLjk5OCw0NCA0MC45NywzNCA0MC45NywxNCIvPjxsaW5lIHgxPSI3Ljk3IiB4Mj0iMjMuNTc5IiB5MT0iMzMiIHkyPSIyNC40NTQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2JjYmNiYyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIyMy45NzIiIHgyPSIyMy45NjYiIHkxPSI1LjkwMyIgeTI9IjE1Ljg2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYmNiY2JjIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjM5Ljk3IiB4Mj0iMzIuOTciIHkxPSIzMyIgeTI9IjI5IiBmaWxsPSJub25lIiBzdHJva2U9IiNiY2JjYmMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiLz48cG9seWdvbiBmaWxsPSIjNzU3NTc1IiBwb2ludHM9IjIzLjk3NCw0IDYuOTcsMTQgNi45NywzNCAyMy45NywyNCIvPjxwb2x5Z29uIGZpbGw9IiM0MjQyNDIiIHBvaW50cz0iMjMuOTgxLDE0IDQwLjk3LDE0IDQwLjk3LDM0IDIzLjk3MSwyNCIvPjxwb2x5Z29uIGZpbGw9IiM2MTYxNjEiIGZpbGwtcnVsZT0iZXZlbm9kZCIgcG9pbnRzPSI0MC45NywxNCAyMy45NjYsMTcgMjMuOTc0LDQiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjxwb2x5Z29uIGZpbGw9IiM2MTYxNjEiIGZpbGwtcnVsZT0iZXZlbm9kZCIgcG9pbnRzPSI2Ljk3LDE0IDIzLjk4MSwxNi44ODEgMjMuOTY2LDI0IDYuOTcsMzQiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjxwb2x5Z29uIGZpbGw9IiNlZGVkZWQiIHBvaW50cz0iNi45NywxNCAyMy45NywyNCAyMy45OTgsNDQgNDAuOTcsMTQiLz48L3N2Zz4=
-[Cursor-url]: https://www.cursor.com/
 [Docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 [DVC-badge]: https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white
@@ -194,8 +191,6 @@ This project enables YouTube content creators to easily monitor and evaluate the
 [Gradio-url]: https://gradio.app
 [HuggingFace-badge]: https://img.shields.io/badge/Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black
 [HuggingFace-url]: https://huggingface.co/
-[JupyterNotebook-badge]: https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
-[JupyterNotebook-url]: https://jupyter.org/
 [Matplotlib-badge]: https://img.shields.io/badge/Matplotlib-%23DDDDDD?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMTgwIiBzdHJva2U9ImdyYXkiPgo8ZyBzdHJva2Utd2lkdGg9IjIiIGZpbGw9IiNGRkYiPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSI4OCIvPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSI2NiIvPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSI0NCIvPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSIyMiIvPgo8cGF0aCBkPSJtOTAsMnYxNzZtNjItMjYtMTI0LTEyNG0xMjQsMC0xMjQsMTI0bTE1MC02MkgyIi8+CjwvZz48ZyBvcGFjaXR5PSIuOCI+CjxwYXRoIGZpbGw9IiM0NEMiIGQ9Im05MCw5MGgxOGExOCwxOCAwIDAsMCAwLTV6Ii8+CjxwYXRoIGZpbGw9IiNCQzMiIGQ9Im05MCw5MCAzNC00M2E1NSw1NSAwIDAsMC0xNS04eiIvPgo8cGF0aCBmaWxsPSIjRDkzIiBkPSJtOTAsOTAtMTYtNzJhNzQsNzQgMCAwLDAtMzEsMTV6Ii8+CjxwYXRoIGZpbGw9IiNEQjMiIGQ9Im05MCw5MC01OC0yOGE2NSw2NSAwIDAsMC01LDM5eiIvPgo8cGF0aCBmaWxsPSIjM0JCIiBkPSJtOTAsOTAtMzMsMTZhMzcsMzcgMCAwLDAgMiw1eiIvPgo8cGF0aCBmaWxsPSIjM0M5IiBkPSJtOTAsOTAtMTAsNDVhNDYsNDYgMCAwLDAgMTgsMHoiLz4KPHBhdGggZmlsbD0iI0Q3MyIgZD0ibTkwLDkwIDQ2LDU4YTc0LDc0IDAgMCwwIDEyLTEyeiIvPgo8L2c+PC9zdmc+
 [Matplotlib-url]: https://matplotlib.org/
 [MLflow-badge]: https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white
@@ -210,8 +205,6 @@ This project enables YouTube content creators to easily monitor and evaluate the
 [PowerBI-url]: https://powerbi.microsoft.com/en-us/
 [Plotly-badge]: https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white
 [Plotly-url]: https://plotly.com/python/
-[PyCharm-badge]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
-[PyCharm-url]: https://www.jetbrains.com/pycharm/
 [Pydantic-badge]: https://img.shields.io/badge/Pydantic-3776AB?style=for-the-badge&logo=pydantic&logoColor=white
 [Pydantic-url]: https://docs.pydantic.dev/
 [Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
@@ -228,5 +221,3 @@ This project enables YouTube content creators to easily monitor and evaluate the
 [Spark-url]: https://spark.apache.org/
 [TensorFlow-badge]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
 [TensorFlow-url]: https://www.tensorflow.org/
-[VSCode-badge]: https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white
-[VSCode-url]: https://code.visualstudio.com/
