@@ -61,21 +61,7 @@ This project enables YouTube content creators to easily monitor and evaluate the
 <img src="images/powerbi_comments.PNG" alt="PowerBI Comments">
 </details>
 
-### [Project 3: Rental Price Prediction](https://github.com/JensBender/rental-price-prediction)
-[![Python][Python-badge]][Python-url] [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![Flask][Flask-badge]][Flask-url] [![Docker][Docker-badge]][Docker-url]  
-- **Motivation**: Simplify the process of finding rental properties in Singapore's expensive real estate market by using machine learning to estimate rental prices. 
-- **Data Collection**: Scraped 1680 property listings from an online property portal, including information on price, size, address, bedrooms, bathrooms and more.
-- **Exploratory Data Analysis**: Visualized property locations on an interactive map, generated a word cloud to extract insights from property agent descriptions, and examined descriptive statistics, distributions, and correlations.  
-- **Data Preprocessing**: Handled missing address data and engineered location-related features using the Google Maps API, extracted property features from agent descriptions and systematically evaluated multiple outlier handling methods. 
-- **Model Training**: Trained five machine learning models with baseline configurations, selected an XGBoost regression model with optimized hyperparameters, and achieved a test dataset performance with an RMSE of 995, a MAPE of 0.13, and an R² of 0.90.
-- **Model Deployment**: Created a web application for serving the XGBoost model using the Flask framework. Containerized this application using Docker and successfully deployed the Docker container on render.com.
-
-<div style="display: flex;">
-  <img src="images/map.png" style="width: 49%;"> 
-  <img src="images/feature_importance.png" style="width: 49%;">
-</div>
-
-### [Project 4: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
+### [Project 3: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
 [![Python][Python-badge]][Python-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Flask][Flask-badge]][Flask-url]  
 - **Motivation**: Develop a hate speech detector for social media comments. 
 - **Data**: Utilized the [ETHOS Hate Speech Detection Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset).
@@ -90,6 +76,7 @@ This project enables YouTube content creators to easily monitor and evaluate the
 ### More Projects
 
 - **[Medical Cost Planner](https://github.com/JensBender/medical-cost-prediction):** Currently developing an AI-powered application to predict out-of-pocket healthcare costs for personalized financial planning.
+- **[Rental Price Prediction](https://github.com/JensBender/rental-price-prediction):** Predicting Singapore rental prices using XGBoost. Includes web scraping of properties, feature engineering via Google Maps API, and a Dockerized Flask application for deployment.
 - **[Machine Learning Template](https://github.com/JensBender/machine-learning-template):** A versatile, ready-to-use machine learning template for tabular data. Streamlines EDA, data preprocessing, and modeling for regression and classification.
 - **[ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator):** LLM-driven cover letter generator. Transforms job postings into tailored applications using the OpenAI API and Web Scraping.
 
