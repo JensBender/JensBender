@@ -25,7 +25,23 @@ PhD Researcher with 8+ years in advanced statistical modeling, now applying thes
 
 ## 💻 Portfolio
 
-### [Project 1: Loan Default Prediction](https://github.com/JensBender/loan-default-prediction) 
+### [Project 1: Medical Cost Planner](https://github.com/JensBender/medical-cost-prediction)
+[![Python][Python-badge]][Python-url] [![Pandas][Pandas-badge]][Pandas-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![DVC][DVC-badge]][DVC-url] [![MLflow][MLflow-badge]][MLflow-url]   
+**Active Development:** Currently in hyperparameter tuning.  
+Building an end-to-end machine learning solution to predict annual US out-of-pocket healthcare costs. Leveraging the 2023 MEPS dataset, this application empowers users to make data-driven decisions for FSA/HSA contributions and healthcare budgeting.
+- **Data Engineering**: Engineered a production-ready preprocessing pipeline using **DVC** for data lineage and reproducibility. Implemented custom scikit-learn transformers to handle complex survey data, including person-level weights and extreme zero-inflated cost distributions.
+- **Exploratory Data Analysis**: Conducted comprehensive statistical profiling of 1,300+ variables to identify high-impact cost drivers, including chronic condition burden and insurance coverage types.
+- **Advanced Modeling**: Orchestrated experiments and hyperparameter tuning via **MLflow**. Optimized ML models for **Median Absolute Error (MdAE)** and established a rigorous **LLM Benchmark** to demonstrate the performance gains of specialized ML over general-purpose AI.
+- **Deployment (Planned)**: Serving the model via FastAPI and Gradio, designed for a seamless user experience with an estimated completion time of less than 90 seconds.
+
+<img src="images/medical_cost_lorenz_curve.png" alt="Lorenz Curve">
+<details>
+<summary>ℹ️ <strong>Preprocessing Pipeline</strong> (click to expand)</summary>
+<img src="images/medical_cost_pipeline.svg" alt="Preprocessing Pipeline">
+</details>
+
+
+### [Project 2: Loan Default Prediction](https://github.com/JensBender/loan-default-prediction) 
 [![Python][Python-badge]][Python-url] [![Pandas][Pandas-badge]][Pandas-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![FastAPI][FastAPI-badge]][FastAPI-url] [![pytest][Pytest-badge]][Pytest-url] [![Docker][Docker-badge]][Docker-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url]    
 Built an end-to-end machine learning solution for predicting loan defaults using customer application data, enabling financial institutions to make data-driven lending decisions and better manage credit risk. The project includes:
 - **Data Preprocessing**: Engineered new features (e.g., job stability, city tier, state default rate), handled duplicates, data types, missing values, and outliers, scaled numerical features, and encoded categorical features.
@@ -43,7 +59,7 @@ Built an end-to-end machine learning solution for predicting loan defaults using
 <img src="images/precision_recall_curves_tuned.png" alt="Precision-Recall Curves">
 </details>
 
-### [Project 2: YouTube ETL & Analytics](https://github.com/JensBender/youtube-channel-analytics)
+### [Project 3: YouTube ETL & Analytics](https://github.com/JensBender/youtube-channel-analytics)
 [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] [![Airflow][Airflow-badge]][Airflow-url] [![Docker][Docker-badge]][Docker-url] [![AWS][AWS-badge]][AWS-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] [![Power BI][PowerBI-badge]][PowerBI-url]  
 To empower YouTube content creators and marketers with actionable insights into their channel's performance, especially in comparison to related channels, I developed a comprehensive **ETL pipeline** and designed an interactive **Power BI report**. This project involved:
 
@@ -61,7 +77,7 @@ This project enables YouTube content creators to easily monitor and evaluate the
 <img src="images/powerbi_comments.PNG" alt="PowerBI Comments">
 </details>
 
-### [Project 3: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
+### [Project 4: Hate Speech Detection](https://github.com/JensBender/hate-speech-detection)
 [![Python][Python-badge]][Python-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Flask][Flask-badge]][Flask-url]  
 - **Motivation**: Develop a hate speech detector for social media comments. 
 - **Data**: Utilized the [ETHOS Hate Speech Detection Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset).
@@ -72,20 +88,6 @@ This project enables YouTube content creators to easily monitor and evaluate the
 | ------------------ | ------------------ | 
 | ![BERT-confusion-matrix](images/bert_confusion_matrix.png) | <img src="images/hate_speech_model_deployment.PNG" style="width: 275px;"> |
 
-
-### [Project 4: Medical Cost Planner](https://github.com/JensBender/medical-cost-prediction)
-[![Python][Python-badge]][Python-url] [![Pandas][Pandas-badge]][Pandas-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![DVC][DVC-badge]][DVC-url] [![MLflow][MLflow-badge]][MLflow-url]   
-**Active Development** (hyperparameter tuning stage): Building an end-to-end machine learning application to predict annual US out-of-pocket healthcare costs. This project leverages the MEPS 2023 dataset to help individuals make data-driven decisions for FSA/HSA contributions and financial planning.
-- **Data Engineering**: Orchestrated a robust preprocessing pipeline using **DVC** for data lineage and **MLflow** for experiment tracking. Handled complex survey weights and extreme right-skewed, zero-inflated cost distributions.
-- **Exploratory Data Analysis**: Conducted deep statistical analysis, identifying key cost drivers such as age, insurance status, and chronic condition burden.
-- **Advanced Modeling**: Implementing a multi-model strategy (Elastic Net, XGBoost) optimized for Median Absolute Error (MdAE). Features a rigorous **LLM Benchmark** to quantify the performance gains of specialized domain models against a general intelligence LLM.
-- **Deployment (Planned)**: Will be served as a web application using FastAPI and Gradio, featuring a user-centric design aimed at completing cost estimates in under 90 seconds.
-
-<img src="images/medical_cost_lorenz_curve.png" alt="Lorenz Curve">
-<details>
-<summary>ℹ️ <strong>Preprocessing Pipeline</strong> (click to expand)</summary>
-<img src="images/medical_cost_pipeline.svg" alt="Preprocessing Pipeline">
-</details>
 
 ### More Projects
 - **[Rental Price Prediction](https://github.com/JensBender/rental-price-prediction):** Predicting Singapore rental prices using XGBoost. Includes web scraping of properties, feature engineering via Google Maps API, and a Dockerized Flask application for deployment.
