@@ -73,9 +73,21 @@ This project enables YouTube content creators to easily monitor and evaluate the
 | ![BERT-confusion-matrix](images/bert_confusion_matrix.png) | <img src="images/hate_speech_model_deployment.PNG" style="width: 275px;"> |
 
 
-### More Projects
+### [Project 4: Medical Cost Planner](https://github.com/JensBender/medical-cost-prediction)
+[![Python][Python-badge]][Python-url] [![Pandas][Pandas-badge]][Pandas-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![DVC][DVC-badge]][DVC-url] [![MLflow][MLflow-badge]][MLflow-url]   
+**Active Development** (hyperparameter tuning stage): Building an end-to-end machine learning application to predict annual US out-of-pocket healthcare costs. This project leverages the MEPS 2023 dataset to help individuals make data-driven decisions for FSA/HSA contributions and financial planning.
+- **Data Engineering**: Orchestrated a robust preprocessing pipeline using **DVC** for data lineage and **MLflow** for experiment tracking. Handled complex survey weights and extreme right-skewed, zero-inflated cost distributions.
+- **Exploratory Data Analysis**: Conducted deep statistical analysis, identifying key cost drivers such as age, insurance status, and chronic condition burden.
+- **Advanced Modeling**: Implementing a multi-model strategy (Elastic Net, XGBoost) optimized for Median Absolute Error (MdAE). Features a rigorous **LLM Benchmark** to quantify the performance gains of specialized domain models against a general intelligence LLM.
+- **Deployment (Planned)**: Will be served as a web application using FastAPI and Gradio, featuring a user-centric design aimed at completing cost estimates in under 90 seconds.
 
-- **[Medical Cost Planner](https://github.com/JensBender/medical-cost-prediction):** Currently developing an AI-powered application to predict out-of-pocket healthcare costs for personalized financial planning.
+<img src="images/medical_cost_lorenz_curve.png" alt="Lorenz Curve">
+<details>
+<summary>ℹ️ <strong>Preprocessing Pipeline</strong> (click to expand)</summary>
+<img src="images/medical_cost_pipeline.svg" alt="Preprocessing Pipeline">
+</details>
+
+### More Projects
 - **[Rental Price Prediction](https://github.com/JensBender/rental-price-prediction):** Predicting Singapore rental prices using XGBoost. Includes web scraping of properties, feature engineering via Google Maps API, and a Dockerized Flask application for deployment.
 - **[Machine Learning Template](https://github.com/JensBender/machine-learning-template):** A versatile, ready-to-use machine learning template for tabular data. Streamlines EDA, data preprocessing, and modeling for regression and classification.
 - **[ChatGPT Cover Letter Generator](https://github.com/JensBender/chatgpt-cover-letter-generator):** LLM-driven cover letter generator. Transforms job postings into tailored applications using the OpenAI API and Web Scraping.
