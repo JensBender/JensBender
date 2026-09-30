@@ -13,11 +13,11 @@ PhD Researcher with 8+ years in advanced statistical modeling, now applying thes
 | Programming              | [![Python][Python-badge]][Python-url] [![MySQL][MySQL-badge]][MySQL-url] |
 | Data Manipulation        | [![NumPy][NumPy-badge]][NumPy-url] [![Pandas][Pandas-badge]][Pandas-url] |
 | Data Visualization       | [![Matplotlib][Matplotlib-badge]][Matplotlib-url] [![Seaborn][Seaborn-badge]][Seaborn-url] [![Plotly][Plotly-badge]][Plotly-url] [![Power BI][PowerBI-badge]][PowerBI-url] |
-| AI & Machine Learning    | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] |
+| AI & Machine Learning    | [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![XGBoost][XGBoost-badge]][XGBoost-url] [![TensorFlow][TensorFlow-badge]][TensorFlow-url] |
 | Big Data                 | [![Spark][Spark-badge]][Spark-url] |
 | Web Development          | [![FastAPI][FastAPI-badge]][FastAPI-url] [![Flask][Flask-badge]][Flask-url] [![Gradio][Gradio-badge]][Gradio-url] [![Pydantic][Pydantic-badge]][Pydantic-url] |
 | Version Control          | [![Git][Git-badge]][Git-url] [![GitHub][GitHub-badge]][GitHub-url] |
-| MLOps                    | [![MLflow][MLflow-badge]][MLflow-url] [![DVC][DVC-badge]][DVC-url] |
+| MLOps                    | [![MLflow][MLflow-badge]][MLflow-url] [![DVC][DVC-badge]][DVC-url] [![Hugging Face][HuggingFace-badge]][HuggingFace-url] |
 | DevOps                   | [![Docker][Docker-badge]][Docker-url] [![Airflow][Airflow-badge]][Airflow-url] [![GitHub Actions][GitHubActions-badge]][GitHubActions-url] |
 | Testing                  | [![pytest][Pytest-badge]][Pytest-url] [![Selenium][Selenium-badge]][Selenium-url] |
 | Cloud                    | [![AWS][AWS-badge]][AWS-url] |
@@ -222,3 +222,5 @@ This project enables YouTube content creators to easily monitor and evaluate the
 [Spark-url]: https://spark.apache.org/
 [TensorFlow-badge]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
 [TensorFlow-url]: https://www.tensorflow.org/
+[XGBoost-badge]: https://img.shields.io/badge/XGBoost-006600?style=for-the-badge
+[XGBoost-url]: https://xgboost.readthedocs.io/
