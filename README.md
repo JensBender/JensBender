@@ -36,7 +36,45 @@ On the held-out test set, the model passes all predefined performance thresholds
 
 **SHAP explanations** show which answers contribute most to the plan-around estimate. Cost comparison benchmarks help users compare their estimate with typical spending for U.S. adults and their age group, while medical inflation adjustment expresses amounts in current dollars.
 
-<img src="images/medical_cost_lorenz_curve.png" alt="Lorenz Curve">
+**Illustrative Prediction Output**:  
+High cost profile: 68-year-old, uninsured, multiple chronic conditions
+>
+> **Your Estimated Out-of-Pocket Costs for Next Year**
+>
+> - 💰 **Plan around:** $1,350
+> - 📊 **Typical range:** $520-$2,400
+> - 🛡️ **Safety cushion:** budget up to $5,200
+>
+> Use the plan-around number as a reasonable midpoint for budgeting. The typical range shows where about half of people with similar profiles fall. The safety cushion gives extra room for a higher-cost year.
+>
+> <details>
+> <summary><strong>Which answers shaped your estimate?</strong> <i>(click to expand)</i></summary>
+> <p>These answers made the largest contributions to your plan-around estimate:</p>
+> <table>
+> <thead><tr><th>Your answer</th><th align="right">Contribution</th></tr></thead>
+> <tbody>
+> <tr><td><strong>Age:</strong> 68</td><td align="right">↑ +$480</td></tr>
+> <tr><td><strong>Diabetes:</strong> Yes</td><td align="right">↑ +$370</td></tr>
+> <tr><td><strong>Insurance:</strong> Uninsured</td><td align="right">↑ +$310</td></tr>
+> <tr><td><strong>High blood pressure:</strong> Yes</td><td align="right">↑ +$180</td></tr>
+> <tr><td><strong>Physical health:</strong> Good</td><td align="right">↓ −$90</td></tr>
+> </tbody>
+> </table>
+> </details>
+>
+> <details>
+> <summary><strong>How you compare to others</strong> <i>(click to expand)</i></summary>
+> <table>
+> <tbody>
+> <tr><td>Your plan-around estimate</td><td align="right">$1,350</td></tr>
+> <tr><td>Typical American</td><td align="right">$268</td></tr>
+> <tr><td>Typical for ages 65+</td><td align="right">$657</td></tr>
+> </tbody>
+> </table>
+> </details>
+
+<br>
+
 <details>
 <summary>ℹ️ <strong>Preprocessing Pipeline</strong> (click to expand)</summary>
 <img src="images/medical_cost_pipeline.svg" alt="Preprocessing Pipeline">
