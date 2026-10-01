@@ -26,13 +26,15 @@ PhD Researcher with 8+ years in advanced statistical modeling, now applying thes
 ## 💻 Portfolio
 
 ### [Project 1: Medical Cost Planner](https://github.com/JensBender/medical-cost-prediction)
-[![Python][Python-badge]][Python-url] [![Pandas][Pandas-badge]][Pandas-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![DVC][DVC-badge]][DVC-url] [![MLflow][MLflow-badge]][MLflow-url]   
-**Active Development:** Currently in hyperparameter tuning.  
-Building an end-to-end machine learning solution to predict annual US out-of-pocket healthcare costs. Leveraging the 2023 MEPS dataset, this application empowers users to make data-driven decisions for FSA/HSA contributions and healthcare budgeting.
-- **Data Engineering**: Engineered a production-ready preprocessing pipeline using **DVC** for data lineage and reproducibility. Implemented custom scikit-learn transformers to handle complex survey data, including person-level weights and extreme zero-inflated cost distributions.
-- **Exploratory Data Analysis**: Conducted comprehensive statistical profiling of 1,300+ variables to identify high-impact cost drivers, including chronic condition burden and insurance coverage types.
-- **Advanced Modeling**: Orchestrated experiments and hyperparameter tuning via **MLflow**. Optimized ML models for **Median Absolute Error (MdAE)** and established a rigorous **LLM Benchmark** to demonstrate the performance gains of specialized ML over general-purpose AI.
-- **Deployment (Planned)**: Serving the model via FastAPI and Gradio, designed for a seamless user experience with an estimated completion time of less than 90 seconds.
+[![Python][Python-badge]][Python-url] [![Pandas][Pandas-badge]][Pandas-url] [![scikit-learn][scikit-learn-badge]][scikit-learn-url] [![XGBoost][XGBoost-badge]][XGBoost-url] [![DVC][DVC-badge]][DVC-url] [![MLflow][MLflow-badge]][MLflow-url]   
+
+**Active Development:** Model training and evaluation are complete. The web app and API are next.
+
+Machine learning project to help U.S. adults plan for annual out-of-pocket healthcare costs using accessible demographic and health information. Trained on MEPS 2023 survey data, **XGBoost quantile regression** was selected as the final MVP model. It provides a **plan-around estimate, typical range, and safety cushion** to help users budget for uncertain costs.
+
+On the held-out test set, the model passes all predefined performance thresholds for launch, with a survey-weighted **median absolute error (MdAE) of $240** for the plan-around estimate. Compared with population-wide or age-group estimates, it provides better predictions, especially for typical ranges and safety cushions.
+
+**SHAP explanations** show which answers contribute most to the plan-around estimate. Cost comparison benchmarks help users compare their estimate with typical spending for U.S. adults and their age group, while medical inflation adjustment expresses amounts in current dollars.
 
 <img src="images/medical_cost_lorenz_curve.png" alt="Lorenz Curve">
 <details>
