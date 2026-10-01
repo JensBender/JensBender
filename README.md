@@ -73,8 +73,6 @@ High cost profile: 68-year-old, uninsured, multiple chronic conditions
 > </table>
 > </details>
 
-<br>
-
 <details>
 <summary>ℹ️ <strong>Preprocessing Pipeline</strong> (click to expand)</summary>
 <img src="images/medical_cost_pipeline.svg" alt="Preprocessing Pipeline">
